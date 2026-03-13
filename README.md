@@ -1,123 +1,164 @@
 <div align="center">
-  
-![Background Image](https://github.com/nikouliciousp/nikouliciousp/blob/main/back.gif)
+
+<img src="https://github.com/nikouliciousp/nikouliciousp/blob/main/back.gif" alt="Banner" width="100%" />
+
+# Periklis Nikoulis
+
+### Military Officer | Technical Corps  
+### Electrical & Computer Engineer | Full-Stack Developer
+
+<p>
+Passionate about technology, software engineering, and continuous learning.  
+I enjoy building, debugging, and improving systems while expanding my knowledge across software development, AI, and project management.
+</p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/nikouliciousp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/periklis-nikoulis)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikouliciousp@gmail.com)
 
 </div>
+
+---
+
+## About Me
+
+I am a **Military Officer in the Technical Corps** and a graduate of the **School of Electrical and Computer Engineering** at the **National Technical University of Athens (NTUA)**.
+
+My interests focus on:
+
+- Software Engineering
+- Full-Stack Development
+- Artificial Intelligence
+- Systems Design
+- Technology Project Management
+
+I like solving technical problems, learning new tools, and turning ideas into practical solutions.
+
+---
+
+## Education
+
+- **MEng in Electrical and Computer Engineering**  
+  **National Technical University of Athens (NTUA)**
+
+- **MSc in Artificial Intelligence**  
+  **University of Essex** *(ongoing)*
+
+---
+
+## Certifications
+
+- NATO Certification in **Information and Knowledge Management**
+- Certification in **Project Management**
+- **Coding Factory** – Athens University of Economics and Business
+
+---
+
+## Tech Stack
+
+### Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-F80000?logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prolog-B73A3A?logo=swi-prolog&logoColor=white" />
+  <img src="https://img.shields.io/badge/SML-8B0000?logoColor=white" />
+</p>
+
+### Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
+</p>
+
+### Backend
+<p align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white" />
+</p>
+
+### DevOps & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+</p>
+
+---
+
+## Current Focus
+
+I am currently expanding my expertise in:
+
+- **Artificial Intelligence**
+- **Project Management for Technology Managers & Engineers**
+- Bridging **technical execution** with **managerial decision-making**
+
+---
+
+## Featured Projects
+
+| Project | Description | Link |
+|--------|-------------|------|
+| Project 1 | Short description of your project | [Explore](#) |
+| Project 2 | Short description of your project | [Explore](#) |
+
+> Replace these placeholders with your actual pinned or best repositories.
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-# **👋 About Me**
-  
-### Hello! I am a **Military Officer** in the **Technical Corps** 🛠️ and an **Electrical and Computer Engineer** 🛠️💻.
-
-![Coding Fun](https://github.com/nikouliciousp/nikouliciousp/blob/main/m19074.gif)  
-In my free time, I love exploring **coding adventures**: sometimes breaking code ⚡, sometimes fixing it 🔧, and always learning! 🌱
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikouliciousp&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikouliciousp&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## **🎓 Certifications and Skills**
-
-### **Degrees**:
-- 📘 Graduated from the **School of Electrical and Computer Engineering**, **National Technical University of Athens (NTUA)**.  
-
----
-
-### **🌐 Full Stack Development Skills**
-
-#### **💻 Programming Languages**  
+## Project Overview
 
 <div align="center">
 
-[![Java](https://img.shields.io/badge/Java-F80000?logo=java&logoColor=white)](https://docs.oracle.com/javase/tutorial/) 
-[![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/) 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://docs.python.org/3/tutorial/) 
-[![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)](https://devdocs.io/c/) 
-[![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)](https://cplusplus.com/doc/tutorial/) 
-[![Prolog](https://img.shields.io/badge/Prolog-B73A3A?logo=swi-prolog&logoColor=white)](https://www.swi-prolog.org/pldoc/doc_for?object=manual) 
-[![SML](https://img.shields.io/badge/SML-8B0000?logo=standard-ml&logoColor=white)](https://www.smlnj.org/doc/)
+![Project Distribution](https://quickchart.io/chart?c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Java%22%2C%22Python%22%2C%22C%23%22%2C%22JavaScript%22%2C%22C%22%2C%22Prolog%22%2C%22SML%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B28%2C25%2C18%2C11%2C7%2C4%2C7%5D%7D%5D%7D%7D)
 
 </div>
 
+### Summary
+
+- **Java** — 28%
+- **Python** — 25%
+- **C#** — 18%
+- **JavaScript** — 11%
+- **C** — 7%
+- **Prolog** — 4%
+- **SML** — 7%
+
 ---
 
-#### **🎨 Frontend Development**
+## Contact
 
 <div align="center">
 
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
-[![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)](https://angular.io/tutorial) 
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/nikouliciousp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/periklis-nikoulis)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikouliciousp@gmail.com)
 
 </div>
 
 ---
-
-#### **🖥️ Backend Development**
 
 <div align="center">
 
-[![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)](https://docs.djangoproject.com/en/4.2/intro/) 
-[![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.3.x/tutorial/) 
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)](https://spring.io/guides) 
-[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white)](https://hibernate.org/orm/documentation/)
-
-</div>
-
----
-
-#### **🛠️ DevOps Tools**
-
-<div align="center">
-
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://docs.docker.com/)
-
-</div>
-
----
-
-## **🚀 Current Learning Path**  
-📘 **Project Management for Technology Managers & Engineers**  
-&mdash; Exploring efficient strategies for bridging technical and managerial expertise.
-
----
-
-## **📂 Projects**  
-
-Feel free to explore my repositories and favorite projects below:  
-
-| **Project Name** | **Description**           | **Link**             |
-|------------------|---------------------------|----------------------|
-| **Project 1**    | Description of Project 1  | [🌐 Explore Here](#) |
-| **Project 2**    | Description of Project 2  | [🌐 Explore Here](#) |
-
----
-
-# **📊 Project Progress Overview**  
-
-### **🎯 Pie Chart of Projects**
----
-
-![Pie Chart](https://quickchart.io/chart?c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Java%22%2C%22Python%22%2C%22C%23%22%2C%22JS%22%2C%22C%22%2C%22Prolog%22%2C%22SML%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B28%2C25%2C18%2C11%2C7%2C4%2C7%5D%7D%5D%7D%7D)  
-
-### **💡 Summary**
----
-- **Java Projects**: 🚀 **28%** complete and progressing well!  
-- **Python Projects**: 🐍 Impressive progress at **25%**.  
-- **C# Projects**: 🔧 Working steadily at **18%**.  
-- **JS Projects**: 🌐 Solid progress with **11%** completed.  
-- **C Projects**: ⚙️ In the early stage (**7% done**).  
-- **Prolog Projects**: 📘 Just starting; **4%** completed.  
-- **SML Projects**: 📚 Steady momentum with **7% progress**.  
-
-
----
-
-<div align="center">✨ _Let's build something amazing together!_ ✨  
-
-Connect via [GitHub](https://github.com/nikouliciousp) | [LinkedIn](www.linkdin.com/in/periklis-nikoulis) | [Email](nikouliciousp@gmail.com).  
+### "Build with discipline. Learn with curiosity. Improve continuously."
 
 </div>
