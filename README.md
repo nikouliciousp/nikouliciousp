@@ -243,23 +243,25 @@ Specializing in machine learning, neural networks, and data science applications
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Profile Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nikouliciousp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikouliciousp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikouliciousp&layout=compact&theme=tokyonight&hide_border=true" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikouliciousp&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
 
 </div>
 
+<br>
+
 ---
 
-## 📈 Contribution Activity
+## 🔥 Contribution Statistics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikouliciousp&theme=tokyo-night&hide_border=true" width="95%" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nikouliciousp&theme=tokyonight&hide_border=true)](https://github.com/nikouliciousp)
 
 </div>
 
