@@ -27,11 +27,11 @@ Focused on <b>software engineering</b>, <b>artificial intelligence</b>, <b>syste
 
 ---
 
-## <img src="https://img.icons8.com/fluency/28/user-male-circle.png" width="22"/> About Me
+## 👤 About Me
 
-I am a **Military Officer in the Technical Corps** with a strong academic and technical background in **Electrical and Computer Engineering**. Currently pursuing an **MSc in Artificial Intelligence** at the University of Essex while maintaining active military service.
+I am a **Military Officer in the Technical Corps** with a strong academic and technical background in **Electrical and Computer Engineering**. Currently pursuing an **MSc in Artificial Intelligence** at the University of Essex.
 
-### Professional Experience & Focus:
+### 💼 Professional Experience & Focus:
 
 - **Enterprise Software Development** – Full-stack applications using Java, Spring, and modern frameworks
 - **Artificial Intelligence & Machine Learning** – Data analysis, neural networks, predictive modeling
@@ -43,7 +43,7 @@ I am passionate about building **robust, scalable solutions** that solve real-wo
 
 ---
 
-## <img src="https://img.icons8.com/fluency/28/graduation-cap.png" width="22"/> Education
+## 🎓 Education
 
 <table>
 <tr>
@@ -66,36 +66,36 @@ Specializing in machine learning, neural networks, and data science applications
 
 ---
 
-## <img src="https://img.icons8.com/fluency/28/certificate.png" width="22"/> Professional Certifications & Training
+## 🏆 Professional Certifications & Training
 
-- 🏆 **NATO Certification** – Information and Knowledge Management
+- 🎖️ **NATO Certification** – Information and Knowledge Management
 - 📊 **Project Management Certification** – Professional standards and Agile practices
 - 💻 **Coding Factory** – Advanced Programming Training (Athens University of Economics and Business)
 
 ---
 
-## <img src="https://img.icons8.com/fluency/28/maintenance.png" width="22"/> Technical Stack & Expertise
+## 🛠️ Technical Stack & Expertise
 
-### <img src="https://img.icons8.com/fluency/24/source-code.png" width="18"/> Programming Languages
+### 💾 Programming Languages
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs" /><br>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs" />
 
 | Language | Proficiency | Projects | Experience |
 |----------|------------|----------|------------|
-| **Java** | Expert | 8+ Enterprise Apps | Server-side, Desktop, REST APIs |
-| **Python** | Advanced | 5+ Data Science & ML | AI, ML, Web Backend |
-| **C#** | Advanced | 2+ .NET Projects | Web, Desktop Applications |
-| **C/C++** | Intermediate | Academic Projects | Systems, Algorithms |
-| **Prolog** | Intermediate | Logic Programming | Academic, AI Logic |
-| **SML** | Intermediate | Functional Programming | Academic, Paradigm Learning |
+| **Java** | ⭐⭐⭐⭐⭐ Expert | 8+ Enterprise Apps | Server-side, Desktop, REST APIs |
+| **Python** | ⭐⭐⭐⭐ Advanced | 5+ Data Science & ML | AI, ML, Web Backend |
+| **C#** | ⭐⭐⭐⭐ Advanced | 2+ .NET Projects | Web, Desktop Applications |
+| **C/C++** | ⭐⭐⭐ Intermediate | Academic Projects | Systems, Algorithms |
+| **Prolog** | ⭐⭐⭐ Intermediate | Logic Programming | Academic, AI Logic |
+| **SML** | ⭐⭐⭐ Intermediate | Functional Programming | Academic, Paradigm Learning |
 
 </div>
 
----
+<br>
 
-### <img src="https://img.icons8.com/fluency/24/web.png" width="18"/> Frontend Development
+### 🎨 Frontend Development
 
 <div align="center">
 
@@ -103,17 +103,17 @@ Specializing in machine learning, neural networks, and data science applications
 
 | Technology | Level | Use Cases |
 |-----------|-------|-----------|
-| **Angular** | Advanced | Component-based web apps, SPAs |
-| **TypeScript** | Advanced | Type-safe frontend development |
-| **HTML/CSS** | Expert | Semantic markup, responsive design |
-| **Bootstrap** | Advanced | Rapid UI prototyping |
-| **Tailwind CSS** | Intermediate | Modern utility-first styling |
+| **Angular** | ⭐⭐⭐⭐ Advanced | Component-based web apps, SPAs |
+| **TypeScript** | ⭐⭐⭐⭐ Advanced | Type-safe frontend development |
+| **HTML/CSS** | ⭐⭐⭐⭐⭐ Expert | Semantic markup, responsive design |
+| **Bootstrap** | ⭐⭐⭐⭐ Advanced | Rapid UI prototyping |
+| **Tailwind CSS** | ⭐⭐⭐ Intermediate | Modern utility-first styling |
 
 </div>
 
----
+<br>
 
-### <img src="https://img.icons8.com/fluency/24/server.png" width="18"/> Backend Development & Frameworks
+### 🔙 Backend Development & Frameworks
 
 <div align="center">
 
@@ -121,32 +121,32 @@ Specializing in machine learning, neural networks, and data science applications
 
 | Framework | Language | Level | Use Cases |
 |-----------|----------|-------|-----------|
-| **Spring Boot** | Java | Expert | Enterprise web apps, REST APIs, microservices |
-| **Django** | Python | Advanced | Full-stack web applications, admin dashboards |
-| **Flask** | Python | Advanced | Lightweight APIs, microservices |
-| **Hibernate** | Java | Advanced | ORM, database persistence, JPA |
-| **JAX-RS** | Java | Advanced | RESTful web services |
+| **Spring Boot** | Java | ⭐⭐⭐⭐⭐ Expert | Enterprise web apps, REST APIs, microservices |
+| **Django** | Python | ⭐⭐⭐⭐ Advanced | Full-stack web applications, admin dashboards |
+| **Flask** | Python | ⭐⭐⭐⭐ Advanced | Lightweight APIs, microservices |
+| **Hibernate** | Java | ⭐⭐⭐⭐ Advanced | ORM, database persistence, JPA |
+| **JAX-RS** | Java | ⭐⭐⭐⭐ Advanced | RESTful web services |
 
 </div>
 
----
+<br>
 
-### <img src="https://img.icons8.com/fluency/24/database.png" width="18"/> Database & Data Management
+### 🗄️ Database & Data Management
 
 <div align="center">
 
 | Technology | Experience | Applications |
 |-----------|-----------|--------------|
-| **SQL** | Expert | Data modeling, complex queries, optimization |
-| **Relational DB** | Expert | MySQL, PostgreSQL, SQL Server |
-| **ORM** | Advanced | Hibernate, Entity Framework |
-| **Data Analysis** | Advanced | Python (Pandas, NumPy, Scikit-learn) |
+| **SQL** | ⭐⭐⭐⭐⭐ Expert | Data modeling, complex queries, optimization |
+| **Relational Databases** | ⭐⭐⭐⭐⭐ Expert | MySQL, PostgreSQL, SQL Server |
+| **ORM** | ⭐⭐⭐⭐ Advanced | Hibernate, Entity Framework |
+| **Data Analysis** | ⭐⭐⭐⭐ Advanced | Python (Pandas, NumPy, Scikit-learn) |
 
 </div>
 
----
+<br>
 
-### <img src="https://img.icons8.com/fluency/24/cloud-development.png" width="18"/> DevOps, Tools & Version Control
+### ⚙️ DevOps, Tools & Version Control
 
 <div align="center">
 
@@ -154,31 +154,31 @@ Specializing in machine learning, neural networks, and data science applications
 
 | Tool | Level | Expertise |
 |------|-------|-----------|
-| **Git/GitHub** | Expert | Version control, collaboration, workflows |
-| **Docker** | Advanced | Containerization, deployment |
-| **Maven** | Advanced | Build automation, dependency management |
-| **CI/CD** | Intermediate | Automated testing and deployment pipelines |
+| **Git/GitHub** | ⭐⭐⭐⭐⭐ Expert | Version control, collaboration, workflows |
+| **Docker** | ⭐⭐⭐⭐ Advanced | Containerization, deployment |
+| **Maven** | ⭐⭐⭐⭐ Advanced | Build automation, dependency management |
+| **CI/CD** | ⭐⭐⭐ Intermediate | Automated testing and deployment pipelines |
 
 </div>
 
----
+<br>
 
-### <img src="https://img.icons8.com/fluency/24/artificial-intelligence.png" width="18"/> AI & Machine Learning
+### 🤖 AI & Machine Learning
 
 <div align="center">
 
 | Skill | Level | Technologies |
 |-------|-------|--------------|
-| **Machine Learning** | Advanced | TensorFlow, PyTorch, Scikit-learn |
-| **Neural Networks** | Advanced | Deep Learning, CNN, RNN |
-| **Data Science** | Advanced | Statistical Analysis, Data Visualization |
-| **Data Engineering** | Intermediate | ETL, Data Pipeline Design |
+| **Machine Learning** | ⭐⭐⭐⭐ Advanced | TensorFlow, PyTorch, Scikit-learn |
+| **Neural Networks** | ⭐⭐⭐⭐ Advanced | Deep Learning, CNN, RNN |
+| **Data Science** | ⭐⭐⭐⭐ Advanced | Statistical Analysis, Data Visualization |
+| **Data Engineering** | ⭐⭐⭐ Intermediate | ETL, Data Pipeline Design |
 
 </div>
 
----
+<br>
 
-### <img src="https://img.icons8.com/fluency/24/testing.png" width="18"/> Testing & Quality Assurance
+### 🧪 Testing & Quality Assurance
 
 <div align="center">
 
@@ -192,29 +192,29 @@ Specializing in machine learning, neural networks, and data science applications
 
 ---
 
-## <img src="https://img.icons8.com/fluency/28/combo-chart.png" width="22"/> Engineering Focus Areas
+## 📊 Engineering Focus Areas
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="42"/><br>
+🤖<br>
 <b>Artificial Intelligence & ML</b><br>
 <small>Neural networks, data science, predictive models</small>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/system-task.png" width="42"/><br>
+🏗️<br>
 <b>System Design & Architecture</b><br>
 <small>Scalable solutions, database design, APIs</small>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/code.png" width="42"/><br>
+💻<br>
 <b>Software Engineering</b><br>
 <small>Clean code, design patterns, best practices</small>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/planner.png" width="42"/><br>
+📋<br>
 <b>Project & Tech Management</b><br>
 <small>Leadership, Agile, team coordination</small>
 </td>
@@ -225,36 +225,37 @@ Specializing in machine learning, neural networks, and data science applications
 
 ---
 
-## <img src="https://img.icons8.com/fluency/28/bar-chart.png" width="22"/> Language Activity Distribution
+## 📈 Language Activity Distribution
 
 <div align="center">
 
 | Technology | Progress | Projects | Experience |
 |:--|:--|:--|:--|
-| <img src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" width="16"/> Java | ▰▰▰▰▰▰▰▰▰▰▰▰▰▰ **28%** | 8 Repos | Enterprise & Desktop Apps |
-| <img src="https://img.icons8.com/color/20/python--v1.png" width="16"/> Python | ▰▰▰▰▰▰▰▰▰▰▰▰▰ **25%** | 5 Repos | AI, Web Backend, Data Science |
-| <img src="https://img.icons8.com/color/20/c-sharp-logo.png" width="16"/> C# | ▰▰▰▰▰▰▰▰▰ **18%** | 2 Repos | .NET Web Applications |
-| <img src="https://img.icons8.com/color/20/javascript--v1.png" width="16"/> JavaScript | ▰▰▰▰▰▰ **11%** | 3 Repos | Frontend Development |
-| <img src="https://img.icons8.com/color/20/c-programming.png" width="16"/> C | ▰▰▰▰ **7%** | 1 Repo | Systems Programming |
-| <img src="https://img.icons8.com/fluency/20/code.png" width="16"/> SML | ▰▰▰▰ **7%** | 1 Repo | Functional Programming |
-| <img src="https://img.icons8.com/fluency/20/logic.png" width="16"/> Prolog | ▰▰ **4%** | 1 Repo | Logic Programming |
+| ☕ Java | ▰▰▰▰▰▰▰▰▰▰▰▰▰▰ **28%** | 8 Repos | Enterprise & Desktop Apps |
+| 🐍 Python | ▰▰▰▰▰▰▰▰▰▰▰▰▰ **25%** | 5 Repos | AI, Web Backend, Data Science |
+| 🔷 C# | ▰▰▰▰▰▰▰▰▰ **18%** | 2 Repos | .NET Web Applications |
+| 📜 JavaScript | ▰▰▰▰▰▰ **11%** | 3 Repos | Frontend Development |
+| 📋 C/C++ | ▰▰▰▰ **7%** | 1 Repo | Systems Programming |
+| 🔤 SML | ▰▰▰▰ **7%** | 1 Repo | Functional Programming |
+| 🧠 Prolog | ▰▰ **4%** | 1 Repo | Logic Programming |
 
 </div>
 
 ---
 
-## <img src="https://img.icons8.com/fluency/28/statistics.png" width="22"/> GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=nikouliciousp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikouliciousp&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## <img src="https://img.icons8.com/fluency/28/positive-dynamic.png" width="22"/> Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -264,85 +265,249 @@ Specializing in machine learning, neural networks, and data science applications
 
 ---
 
-## <img src="https://img.icons8.com/fluency/28/folder-invoices.png" width="22"/> Featured Projects & Portfolio
+## 🎯 Featured Projects & Portfolio
 
-### 🔴 **Java & Enterprise Development** (28% - 8 Repositories)
+### ☕ **Java & Enterprise Development** (28% - 8 Repositories)
 
-| Project | Description | Tech Stack | Repository |
-|---------|-------------|-----------|------------|
-| **SchoolWebApp** | Full-featured School Management System with Web API | Java, C#, ASP.NET, SQL | [🔗 View](https://github.com/nikouliciousp/SchoolWebApp) |
-| **SchoolJaxRsApp** | RESTful API backend for school management | Java, JAX-RS, REST APIs | [🔗 View](https://github.com/nikouliciousp/SchoolJaxRsApp) |
-| **SchoolAppHibernate** | ORM-based persistence layer implementation | Java, Hibernate, JPA, MySQL | [🔗 View](https://github.com/nikouliciousp/SchoolAppHibernate) |
-| **MavenSwingSchoolApp** | Desktop application with Maven build management | Java, Maven, Swing, GUI | [🔗 View](https://github.com/nikouliciousp/MavenSwingSchoolApp) |
-| **JavaSwingDemoProject** | GUI Desktop Application Demo | Java, Swing, Event Handling | [🔗 View](https://github.com/nikouliciousp/JavaSwingDemoProject) |
-| **JavaSwingWDemoProject** | Advanced Desktop Application with Windows | Java, Swing, Threading | [🔗 View](https://github.com/nikouliciousp/JavaSwingWDemoProject) |
-| **SwingStudentsTeachersApp** | School Management Desktop Application | Java, Swing, MVC Pattern | [🔗 View](https://github.com/nikouliciousp/SwingStudentsTeachersApp) |
-| **CodingJavaLab** | Java Programming Exercises & Algorithms | Java, Data Structures, Algorithms | [🔗 View](https://github.com/nikouliciousp/CodingJavaLab) |
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Tech Stack</th>
+<th>Link</th>
+</tr>
+<tr>
+<td><b>SchoolWebApp</b></td>
+<td>Full-featured School Management System with Web API</td>
+<td>Java, C#, ASP.NET, SQL</td>
+<td><a href="https://github.com/nikouliciousp/SchoolWebApp">🔗 View</a></td>
+</tr>
+<tr>
+<td><b>SchoolJaxRsApp</b></td>
+<td>RESTful API backend for school management</td>
+<td>Java, JAX-RS, REST APIs</td>
+<td><a href="https://github.com/nikouliciousp/SchoolJaxRsApp">🔗 View</a></td>
+</tr>
+<tr>
+<td><b>SchoolAppHibernate</b></td>
+<td>ORM-based persistence layer implementation</td>
+<td>Java, Hibernate, JPA, MySQL</td>
+<td><a href="https://github.com/nikouliciousp/SchoolAppHibernate">🔗 View</a></td>
+</tr>
+<tr>
+<td><b>MavenSwingSchoolApp</b></td>
+<td>Desktop application with Maven build management</td>
+<td>Java, Maven, Swing, GUI</td>
+<td><a href="https://github.com/nikouliciousp/MavenSwingSchoolApp">🔗 View</a></td>
+</tr>
+<tr>
+<td><b>JavaSwingDemoProject</b></td>
+<td>GUI Desktop Application Demo</td>
+<td>Java, Swing, Event Handling</td>
+<td><a href="https://github.com/nikouliciousp/JavaSwingDemoProject">🔗 View</a></td>
+</tr>
+<tr>
+<td><b>JavaSwingWDemoProject</b></td>
+<td>Advanced Desktop Application with Windows</td>
+<td>Java, Swing, Threading</td>
+<td><a href="https://github.com/nikouliciousp/JavaSwingWDemoProject">🔗 View</a></td>
+</tr>
+<tr>
+<td><b>SwingStudentsTeachersApp</b></td>
+<td>School Management Desktop Application</td>
+<td>Java, Swing, MVC Pattern</td>
+<td><a href="https://github.com/nikouliciousp/SwingStudentsTeachersApp">🔗 View</a></td>
+</tr>
+<tr>
+<td><b>CodingJavaLab</b></td>
+<td>Java Programming Exercises & Algorithms</td>
+<td>Java, Data Structures, Algorithms</td>
+<td><a href="https://github.com/nikouliciousp/CodingJavaLab">🔗 View</a></td>
+</tr>
+</table>
 
----
+<br>
 
 ### 🐍 **Python, AI & Machine Learning** (25% - 5 Repositories)
 
-| Project | Description | Tech Stack | Repository |
-|---------|-------------|-----------|------------|
-| **AIPythonProjects** | Comprehensive AI & Machine Learning implementations | Python, TensorFlow, PyTorch, NumPy, Pandas | [🔗 View](https://github.com/nikouliciousp/AIPythonProjects) |
-| **AG701-Crime-Analysis-California** | Data analysis and visualization project | Python, Pandas, Matplotlib, Data Science | [🔗 View](https://github.com/nikouliciousp/AG701-Crime-Analysis-California) |
-| **neurons_experiment** | Neural Networks Research & Experimentation | Python, Deep Learning, TensorFlow/PyTorch | [🔗 View](https://github.com/nikouliciousp/neurons_experiment) |
-| **Data-Probability-Statistics** | Statistical Analysis & Data Processing | Python, NumPy, SciPy, Statistics | [🔗 View](https://github.com/nikouliciousp/Data-Probability-Statistics) |
-| **IntroPython** | Python Fundamentals & Core Concepts | Python, OOP, Algorithms | [🔗 View](https://github.com/nikouliciousp/IntroPython) |
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Tech Stack</th>
+<th>Link</th>
+</tr>
+<tr>
+<td><b>AIPythonProjects</b></td>
+<td>Comprehensive AI & Machine Learning implementations</td>
+<td>Python, TensorFlow, PyTorch, NumPy, Pandas</td>
+<td><a href="https://github.com/nikouliciousp/AIPythonProjects">🔗 View</a></td>
+</tr>
+<tr>
+<td><b>AG701-Crime-Analysis</b></td>
+<td>Data analysis and visualization project</td>
+<td>Python, Pandas, Matplotlib, Data Science</td>
+<td><a href="https://github.com/nikouliciousp/AG701-Crime-Analysis-California">🔗 View</a></td>
+</tr>
+<tr>
+<td><b>neurons_experiment</b></td>
+<td>Neural Networks Research & Experimentation</td>
+<td>Python, Deep Learning, TensorFlow/PyTorch</td>
+<td><a href="https://github.com/nikouliciousp/neurons_experiment">🔗 View</a></td>
+</tr>
+<tr>
+<td><b>Data-Probability-Statistics</b></td>
+<td>Statistical Analysis & Data Processing</td>
+<td>Python, NumPy, SciPy, Statistics</td>
+<td><a href="https://github.com/nikouliciousp/Data-Probability-Statistics">🔗 View</a></td>
+</tr>
+<tr>
+<td><b>IntroPython</b></td>
+<td>Python Fundamentals & Core Concepts</td>
+<td>Python, OOP, Algorithms</td>
+<td><a href="https://github.com/nikouliciousp/IntroPython">🔗 View</a></td>
+</tr>
+</table>
 
----
+<br>
 
-### 🌐 **Frontend Development** (11% - 3 Repositories)
+### 🌐 **Web Development - Full Stack** (22% - 7 Repositories)
 
-| Project | Description | Tech Stack | Repository |
-|---------|-------------|-----------|------------|
-| **IntroAngularTailwind** | Modern Frontend with Angular & Tailwind CSS | Angular, TypeScript, Tailwind CSS, RxJS | [🔗 View](https://github.com/nikouliciousp/IntroAngularTailwind) |
-| **IntroTypeScript** | Angular & TypeScript Best Practices | Angular, TypeScript, Component Architecture | [🔗 View](https://github.com/nikouliciousp/IntroTypeScript) |
-| **WebApp-Flex-Grid** | Responsive CSS Layout Techniques | HTML, CSS (Flexbox, Grid), JavaScript | [🔗 View](https://github.com/nikouliciousp/WebApp-Flex-Grid) |
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Tech Stack</th>
+<th>Link</th>
+</tr>
+<tr>
+<td><b>NewsProjectPython</b></td>
+<td>Full-stack News Portal Application</td>
+<td>Python, Django, PostgreSQL, REST API</td>
+<td><a href="https://github.com/nikouliciousp/NewsProjectPython">🔗 View</a></td>
+</tr>
+<tr>
+<td><b>ProfilesAppDJango</b></td>
+<td>User Profiles & Management System</td>
+<td>Python, Django, Authentication, ORM</td>
+<td><a href="https://github.com/nikouliciousp/ProfilesAppDJango">🔗 View</a></td>
+</tr>
+<tr>
+<td><b>EBookAppDJango</b></td>
+<td>E-Book Platform & Library Management</td>
+<td>Python, Django, Database Design</td>
+<td><a href="https://github.com/nikouliciousp/EBookAppDJango">🔗 View</a></td>
+</tr>
+<tr>
+<td><b>IntroAngularTailwind</b></td>
+<td>Modern Frontend with Angular & Tailwind CSS</td>
+<td>Angular, TypeScript, Tailwind CSS, RxJS</td>
+<td><a href="https://github.com/nikouliciousp/IntroAngularTailwind">🔗 View</a></td>
+</tr>
+<tr>
+<td><b>IntroTypeScript</b></td>
+<td>Angular & TypeScript Best Practices</td>
+<td>Angular, TypeScript, Components</td>
+<td><a href="https://github.com/nikouliciousp/IntroTypeScript">🔗 View</a></td>
+</tr>
+<tr>
+<td><b>WebApp-Flex-Grid</b></td>
+<td>Responsive CSS Layout Techniques</td>
+<td>HTML, CSS (Flexbox, Grid), JavaScript</td>
+<td><a href="https://github.com/nikouliciousp/WebApp-Flex-Grid">🔗 View</a></td>
+</tr>
+<tr>
+<td><b>SimpleDynamicWebApp</b></td>
+<td>Dynamic Web Application</td>
+<td>JavaScript, Web APIs, DOM Manipulation</td>
+<td><a href="https://github.com/nikouliciousp/SimpleDynamicWebApp">🔗 View</a></td>
+</tr>
+</table>
 
----
+<br>
 
-### 🌐 **Web Development - Backend (Python/Django/Flask)** (11% - 4 Repositories)
+### 🔷 **C# & .NET Development** (18% - 2 Repositories)
 
-| Project | Description | Tech Stack | Repository |
-|---------|-------------|-----------|------------|
-| **NewsProjectPython** | Full-stack News Portal Application | Python, Django, PostgreSQL, REST API | [🔗 View](https://github.com/nikouliciousp/NewsProjectPython) |
-| **ProfilesAppDJango** | User Profiles & Management System | Python, Django, User Authentication, ORM | [🔗 View](https://github.com/nikouliciousp/ProfilesAppDJango) |
-| **EBookAppDJango** | E-Book Platform & Library Management | Python, Django, Database Design | [🔗 View](https://github.com/nikouliciousp/EBookAppDJango) |
-| **SimpleDynamicWebApp** | Dynamic Web Application | JavaScript, Web APIs, DOM Manipulation | [🔗 View](https://github.com/nikouliciousp/SimpleDynamicWebApp) |
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Tech Stack</th>
+<th>Link</th>
+</tr>
+<tr>
+<td><b>CFHCSharpIntro</b></td>
+<td>C# Programming Fundamentals</td>
+<td>C#, OOP, .NET Basics</td>
+<td><a href="https://github.com/nikouliciousp/CFHCSharpIntro">🔗 View</a></td>
+</tr>
+<tr>
+<td><b>NetProgramming</b></td>
+<td>Advanced .NET Programming Projects</td>
+<td>C#, .NET Framework, Web Development</td>
+<td><a href="https://github.com/nikouliciousp/NetProgramming">🔗 View</a></td>
+</tr>
+</table>
 
----
-
-### 🔶 **C# & .NET Development** (18% - 2 Repositories)
-
-| Project | Description | Tech Stack | Repository |
-|---------|-------------|-----------|------------|
-| **CFHCSharpIntro** | C# Programming Fundamentals | C#, OOP, .NET Basics | [🔗 View](https://github.com/nikouliciousp/CFHCSharpIntro) |
-| **NetProgramming** | Advanced .NET Programming Projects | C#, .NET Framework, Web Development | [🔗 View](https://github.com/nikouliciousp/NetProgramming) |
-
----
+<br>
 
 ### 🧪 **Testing, Tools & Utilities** (7% - 2 Repositories)
 
-| Project | Description | Tech Stack | Repository |
-|---------|-------------|-----------|------------|
-| **Selenium_Test** | Automated Browser Testing Framework | Python, Selenium WebDriver, Test Automation | [🔗 View](https://github.com/nikouliciousp/Selenium_Test) |
-| **swot** | Academic Email Domain Identifier | Python/Ruby, Email Validation, Utility Tool | [🔗 View](https://github.com/nikouliciousp/swot) |
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Tech Stack</th>
+<th>Link</th>
+</tr>
+<tr>
+<td><b>Selenium_Test</b></td>
+<td>Automated Browser Testing Framework</td>
+<td>Python, Selenium WebDriver, Test Automation</td>
+<td><a href="https://github.com/nikouliciousp/Selenium_Test">🔗 View</a></td>
+</tr>
+<tr>
+<td><b>swot</b></td>
+<td>Academic Email Domain Identifier</td>
+<td>Python/Ruby, Email Validation, Utility</td>
+<td><a href="https://github.com/nikouliciousp/swot">🔗 View</a></td>
+</tr>
+</table>
 
----
+<br>
 
 ### 📚 **Academic & Learning Projects** (7% - 3 Repositories)
 
-| Project | Description | Tech Stack | Repository |
-|---------|-------------|-----------|------------|
-| **NTUA-Projects** | Collection of Academic Projects from NTUA | Multiple Languages, Various Concepts | [🔗 View](https://github.com/nikouliciousp/NTUA-Projects) |
-| **FinalProject** | University Capstone Project | Multiple Technologies, Integration | [🔗 View](https://github.com/nikouliciousp/FinalProject) |
-| **TestApp** | Various Testing & Demo Applications | Multiple Frameworks, Experimentation | [🔗 View](https://github.com/nikouliciousp/TestApp) |
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Tech Stack</th>
+<th>Link</th>
+</tr>
+<tr>
+<td><b>NTUA-Projects</b></td>
+<td>Collection of Academic Projects from NTUA</td>
+<td>Multiple Languages, Various Concepts</td>
+<td><a href="https://github.com/nikouliciousp/NTUA-Projects">🔗 View</a></td>
+</tr>
+<tr>
+<td><b>FinalProject</b></td>
+<td>University Capstone Project</td>
+<td>Multiple Technologies, Integration</td>
+<td><a href="https://github.com/nikouliciousp/FinalProject">🔗 View</a></td>
+</tr>
+<tr>
+<td><b>TestApp</b></td>
+<td>Various Testing & Demo Applications</td>
+<td>Multiple Frameworks, Experimentation</td>
+<td><a href="https://github.com/nikouliciousp/TestApp">🔗 View</a></td>
+</tr>
+</table>
 
 ---
 
-## <img src="https://img.icons8.com/fluency/28/project-management.png" width="22"/> Project Statistics & Overview
+## 📊 Project Statistics & Overview
 
 <div align="center">
 
@@ -358,26 +523,26 @@ Specializing in machine learning, neural networks, and data science applications
 
 ---
 
-## <img src="https://img.icons8.com/fluency/28/goal.png" width="22"/> Current Focus & Learning Path
+## 🎯 Current Focus & Learning Path
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="42"/><br>
+🤖<br>
 <b>Advanced AI & Deep Learning</b><br>
 <small>Neural Networks, NLP, Computer Vision</small><br>
 <small>⏳ MSc in Progress</small>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/48/task.png" width="42"/><br>
+📊<br>
 <b>Engineering Project Management</b><br>
 <small>Agile Leadership, Team Scaling</small><br>
-<small>📊 Strategic Planning</small>
+<small>📈 Strategic Planning</small>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/48/merge-git.png" width="42"/><br>
+🎓<br>
 <b>Technical Leadership</b><br>
 <small>Architecture, Team Mentoring</small><br>
 <small>🎯 Management Skills</small>
@@ -389,7 +554,7 @@ Specializing in machine learning, neural networks, and data science applications
 
 ---
 
-## <img src="https://img.icons8.com/fluency/28/professional-development.png" width="22"/> Professional Strengths
+## 💼 Professional Strengths
 
 <div align="center">
 
@@ -405,7 +570,7 @@ Specializing in machine learning, neural networks, and data science applications
 
 ---
 
-## <img src="https://img.icons8.com/fluency/28/secured-letter.png" width="22"/> Contact & Connect
+## 📞 Contact & Connect
 
 <div align="center">
 
