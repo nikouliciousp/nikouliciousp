@@ -29,7 +29,7 @@ Focused on <b>software engineering</b>, <b>artificial intelligence</b>, <b>syste
 
 ## 👤 About Me
 
-I am a **Military Officer in the Technical Corps** with a strong academic and technical background in **Electrical and Computer Engineering**. Currently pursuing an **MSc in Artificial Intelligence** at the University of Essex.
+I am a **Military Officer in the Technical Corps** with a strong academic and technical background in **Electrical and Computer Engineering**. Currently pursuing an **MSc in Artificial Intelligence** [...]
 
 ### 💼 Professional Experience & Focus:
 
@@ -247,17 +247,13 @@ Specializing in machine learning, neural networks, and data science applications
 
 <div align="center">
 
-<a href="https://github.com/nikouliciousp">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikouliciousp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-</a>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikouliciousp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)](https://github.com/nikouliciousp)
 
 </div>
 
 <div align="center">
 
-<a href="https://github.com/nikouliciousp">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikouliciousp&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-</a>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikouliciousp&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)](https://github.com/nikouliciousp)
 
 </div>
 
@@ -267,9 +263,7 @@ Specializing in machine learning, neural networks, and data science applications
 
 <div align="center">
 
-<a href="https://github.com/nikouliciousp">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikouliciousp&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=nikouliciousp&theme=tokyonight&hide_border=true)](https://github.com/nikouliciousp)
 
 </div>
 
