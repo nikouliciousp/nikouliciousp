@@ -247,13 +247,17 @@ Specializing in machine learning, neural networks, and data science applications
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikouliciousp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)](https://github.com/nikouliciousp)
+<a href="https://github.com/nikouliciousp">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikouliciousp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+</a>
 
 </div>
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikouliciousp&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)](https://github.com/nikouliciousp)
+<a href="https://github.com/nikouliciousp">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikouliciousp&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+</a>
 
 </div>
 
@@ -263,7 +267,9 @@ Specializing in machine learning, neural networks, and data science applications
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nikouliciousp&theme=tokyonight&hide_border=true)](https://github.com/nikouliciousp)
+<a href="https://github.com/nikouliciousp">
+  <img src="https://streak-stats.demolab.com?user=nikouliciousp&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
 
 </div>
 
