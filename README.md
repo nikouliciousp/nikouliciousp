@@ -42,16 +42,16 @@ My work spans enterprise software development, full-stack web applications, data
 
 ## 🎓 Education
 
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td align="center" width="50%">
 
 ### MSc in Artificial Intelligence
 **University of Essex** *(In Progress)*
 Specialising in machine learning, neural networks, NLP, and data science applications
 
 </td>
-<td width="50%">
+<td align="center" width="50%">
 
 ### MEng in Electrical & Computer Engineering
 **National Technical University of Athens (NTUA)**
@@ -65,24 +65,21 @@ Digital systems, telecommunications, software architecture, and algorithms
 
 ## 🏆 Professional Certifications
 
-<table>
+<table align="center">
 <tr>
 <td align="center" width="33%">
 
-🎖️ **NATO**
-Information and Knowledge Management
+🎖️ **NATO**<br/>Information and Knowledge Management
 
 </td>
 <td align="center" width="33%">
 
-📊 **PMI / Workearly**
-Professional Project Management
+📊 **PMI / Workearly**<br/>Professional Project Management
 
 </td>
 <td align="center" width="33%">
 
-💻 **Athens University of Economics & Business**
-Coding Factory — Advanced Programming
+💻 **Athens University of Economics & Business**<br/>Coding Factory — Advanced Programming
 
 </td>
 </tr>
@@ -100,8 +97,10 @@ Coding Factory — Advanced Programming
 
 <br/>
 
+<div align="center">
+
 | Language | Proficiency | Primary Use Cases |
-|----------|-------------|-------------------|
+|:--------:|:-----------:|:-----------------|
 | **Java** | ⬛⬛⬛⬛⬛ Expert | Enterprise apps, REST APIs, desktop applications |
 | **Python** | ⬛⬛⬛⬛◻ Advanced | AI/ML, data science, web backend |
 | **C#** | ⬛⬛⬛⬛◻ Advanced | .NET web and desktop applications |
@@ -109,6 +108,8 @@ Coding Factory — Advanced Programming
 | **C / C++** | ⬛⬛⬛◻◻ Intermediate | Systems programming, algorithms |
 | **Prolog** | ⬛⬛⬛◻◻ Intermediate | Logic programming, AI reasoning |
 | **SML** | ⬛⬛⬛◻◻ Intermediate | Functional programming paradigm |
+
+</div>
 
 ### 🎨 Frontend Development
 
@@ -118,13 +119,17 @@ Coding Factory — Advanced Programming
 
 <br/>
 
+<div align="center">
+
 | Technology | Level | Use Cases |
-|-----------|-------|-----------|
+|:----------:|:-----:|:---------|
 | **Angular** | ⬛⬛⬛⬛◻ Advanced | Component-based web apps, SPAs |
 | **TypeScript** | ⬛⬛⬛⬛◻ Advanced | Type-safe frontend development |
 | **HTML / CSS** | ⬛⬛⬛⬛⬛ Expert | Semantic markup, responsive design |
 | **Bootstrap** | ⬛⬛⬛⬛◻ Advanced | Rapid UI prototyping |
 | **Tailwind CSS** | ⬛⬛⬛◻◻ Intermediate | Modern utility-first styling |
+
+</div>
 
 ### 🔙 Backend Frameworks
 
@@ -134,21 +139,29 @@ Coding Factory — Advanced Programming
 
 <br/>
 
+<div align="center">
+
 | Framework | Language | Level | Use Cases |
-|-----------|----------|-------|-----------|
+|:---------:|:--------:|:-----:|:---------|
 | **Spring Boot** | Java | ⬛⬛⬛⬛⬛ Expert | Enterprise web apps, REST APIs, microservices |
 | **Django** | Python | ⬛⬛⬛⬛◻ Advanced | Full-stack web applications, admin dashboards |
 | **Flask** | Python | ⬛⬛⬛⬛◻ Advanced | Lightweight APIs, microservices |
 | **Hibernate / JPA** | Java | ⬛⬛⬛⬛◻ Advanced | ORM, database persistence |
 | **JAX-RS** | Java | ⬛⬛⬛⬛◻ Advanced | RESTful web services |
 
+</div>
+
 ### 🗄️ Databases & Data Management
 
+<div align="center">
+
 | Technology | Level | Applications |
-|-----------|-------|--------------|
+|:----------:|:-----:|:------------|
 | **SQL (MySQL, PostgreSQL, SQL Server)** | ⬛⬛⬛⬛⬛ Expert | Data modelling, complex queries, optimisation |
 | **Hibernate / Entity Framework** | ⬛⬛⬛⬛◻ Advanced | ORM, JPA persistence |
 | **Pandas / NumPy / SciPy** | ⬛⬛⬛⬛◻ Advanced | Data analysis, statistical processing |
+
+</div>
 
 ### ⚙️ DevOps & Tools
 
@@ -158,29 +171,41 @@ Coding Factory — Advanced Programming
 
 <br/>
 
+<div align="center">
+
 | Tool | Level | Expertise |
-|------|-------|-----------|
+|:----:|:-----:|:---------|
 | **Git / GitHub** | ⬛⬛⬛⬛⬛ Expert | Version control, collaboration, workflows |
 | **Docker** | ⬛⬛⬛⬛◻ Advanced | Containerisation, deployment |
 | **Maven** | ⬛⬛⬛⬛◻ Advanced | Build automation, dependency management |
 | **CI/CD** | ⬛⬛⬛◻◻ Intermediate | Automated testing and deployment pipelines |
 
+</div>
+
 ### 🤖 AI & Machine Learning
 
+<div align="center">
+
 | Skill | Level | Technologies |
-|-------|-------|--------------|
+|:-----:|:-----:|:------------|
 | **Machine Learning** | ⬛⬛⬛⬛◻ Advanced | TensorFlow, PyTorch, Scikit-learn |
 | **Neural Networks** | ⬛⬛⬛⬛◻ Advanced | Deep Learning, CNN, RNN |
 | **Data Science** | ⬛⬛⬛⬛◻ Advanced | Statistical analysis, data visualisation |
 | **Data Engineering** | ⬛⬛⬛◻◻ Intermediate | ETL, data pipeline design |
 
+</div>
+
 ### 🧪 Testing & QA
 
+<div align="center">
+
 | Tool | Usage |
-|------|-------|
+|:----:|:-----|
 | **Selenium WebDriver** | Automated browser testing |
 | **JUnit** | Unit testing for Java |
 | **TDD** | Test-driven development practices |
+
+</div>
 
 ---
 
@@ -188,7 +213,15 @@ Coding Factory — Advanced Programming
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikouliciousp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400)](https://github.com/nikouliciousp)
+<img src="https://github-readme-stats.vercel.app/api?username=nikouliciousp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub Stats" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikouliciousp&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=nikouliciousp&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -198,12 +231,8 @@ Coding Factory — Advanced Programming
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikouliciousp&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400)](https://github.com/nikouliciousp)
-
-</div>
-
 | Technology | Distribution | Repositories |
-|:-----------|:-------------|:-------------|
+|:----------:|:------------:|:------------|
 | ☕ Java | ████████████████ **28%** | 8 repos — enterprise & desktop apps |
 | 🐍 Python | ███████████████ **25%** | 5 repos — AI, web backend, data science |
 | 🔷 C# | ██████████ **18%** | 2 repos — .NET web applications |
@@ -211,14 +240,6 @@ Coding Factory — Advanced Programming
 | 📋 C / C++ | ████ **7%** | 1 repo — systems programming |
 | 🔤 SML | ████ **7%** | 1 repo — functional programming |
 | 🧠 Prolog | ██ **4%** | 1 repo — logic programming |
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=nikouliciousp&theme=tokyonight&hide_border=true)](https://github.com/nikouliciousp)
 
 </div>
 
@@ -228,231 +249,255 @@ Coding Factory — Advanced Programming
 
 ### ☕ Java & Enterprise Development
 
+<div align="center">
+
 <table>
 <tr>
-<th>Project</th>
-<th>Description</th>
-<th>Stack</th>
-<th>Link</th>
+<th width="22%">Project</th>
+<th width="40%">Description</th>
+<th width="28%">Stack</th>
+<th width="10%">Link</th>
 </tr>
 <tr>
-<td><b>SchoolWebApp</b></td>
+<td align="center"><b>SchoolWebApp</b></td>
 <td>Full school management system with REST API and web interface</td>
-<td>Java · C# · ASP.NET · SQL</td>
-<td><a href="https://github.com/nikouliciousp/SchoolWebApp">🔗 View</a></td>
+<td align="center">Java · C# · ASP.NET · SQL</td>
+<td align="center"><a href="https://github.com/nikouliciousp/SchoolWebApp">🔗</a></td>
 </tr>
 <tr>
-<td><b>SchoolJaxRsApp</b></td>
+<td align="center"><b>SchoolJaxRsApp</b></td>
 <td>RESTful API backend for school management</td>
-<td>Java · JAX-RS · REST</td>
-<td><a href="https://github.com/nikouliciousp/SchoolJaxRsApp">🔗 View</a></td>
+<td align="center">Java · JAX-RS · REST</td>
+<td align="center"><a href="https://github.com/nikouliciousp/SchoolJaxRsApp">🔗</a></td>
 </tr>
 <tr>
-<td><b>SchoolAppHibernate</b></td>
+<td align="center"><b>SchoolAppHibernate</b></td>
 <td>ORM-based persistence layer with JPA</td>
-<td>Java · Hibernate · JPA · MySQL</td>
-<td><a href="https://github.com/nikouliciousp/SchoolAppHibernate">🔗 View</a></td>
+<td align="center">Java · Hibernate · JPA · MySQL</td>
+<td align="center"><a href="https://github.com/nikouliciousp/SchoolAppHibernate">🔗</a></td>
 </tr>
 <tr>
-<td><b>MavenSwingSchoolApp</b></td>
+<td align="center"><b>MavenSwingSchoolApp</b></td>
 <td>Desktop application with Maven build management</td>
-<td>Java · Maven · Swing · GUI</td>
-<td><a href="https://github.com/nikouliciousp/MavenSwingSchoolApp">🔗 View</a></td>
+<td align="center">Java · Maven · Swing · GUI</td>
+<td align="center"><a href="https://github.com/nikouliciousp/MavenSwingSchoolApp">🔗</a></td>
 </tr>
 <tr>
-<td><b>JavaSwingDemoProject</b></td>
+<td align="center"><b>JavaSwingDemoProject</b></td>
 <td>GUI desktop application with event-driven design</td>
-<td>Java · Swing · Event Handling</td>
-<td><a href="https://github.com/nikouliciousp/JavaSwingDemoProject">🔗 View</a></td>
+<td align="center">Java · Swing · Event Handling</td>
+<td align="center"><a href="https://github.com/nikouliciousp/JavaSwingDemoProject">🔗</a></td>
 </tr>
 <tr>
-<td><b>JavaSwingWDemoProject</b></td>
+<td align="center"><b>JavaSwingWDemoProject</b></td>
 <td>Advanced desktop application with multi-window support</td>
-<td>Java · Swing · Threading</td>
-<td><a href="https://github.com/nikouliciousp/JavaSwingWDemoProject">🔗 View</a></td>
+<td align="center">Java · Swing · Threading</td>
+<td align="center"><a href="https://github.com/nikouliciousp/JavaSwingWDemoProject">🔗</a></td>
 </tr>
 <tr>
-<td><b>SwingStudentsTeachersApp</b></td>
+<td align="center"><b>SwingStudentsTeachersApp</b></td>
 <td>School management desktop app — MVC pattern</td>
-<td>Java · Swing · MVC</td>
-<td><a href="https://github.com/nikouliciousp/SwingStudentsTeachersApp">🔗 View</a></td>
+<td align="center">Java · Swing · MVC</td>
+<td align="center"><a href="https://github.com/nikouliciousp/SwingStudentsTeachersApp">🔗</a></td>
 </tr>
 <tr>
-<td><b>CodingJavaLab</b></td>
+<td align="center"><b>CodingJavaLab</b></td>
 <td>Algorithms, data structures, and Java programming exercises</td>
-<td>Java · Algorithms</td>
-<td><a href="https://github.com/nikouliciousp/CodingJavaLab">🔗 View</a></td>
+<td align="center">Java · Algorithms</td>
+<td align="center"><a href="https://github.com/nikouliciousp/CodingJavaLab">🔗</a></td>
 </tr>
 </table>
+
+</div>
 
 ### 🐍 Python, AI & Data Science
 
+<div align="center">
+
 <table>
 <tr>
-<th>Project</th>
-<th>Description</th>
-<th>Stack</th>
-<th>Link</th>
+<th width="22%">Project</th>
+<th width="40%">Description</th>
+<th width="28%">Stack</th>
+<th width="10%">Link</th>
 </tr>
 <tr>
-<td><b>AIPythonProjects</b></td>
+<td align="center"><b>AIPythonProjects</b></td>
 <td>Comprehensive AI & machine learning implementations</td>
-<td>Python · TensorFlow · PyTorch · NumPy · Pandas</td>
-<td><a href="https://github.com/nikouliciousp/AIPythonProjects">🔗 View</a></td>
+<td align="center">Python · TensorFlow · PyTorch · NumPy</td>
+<td align="center"><a href="https://github.com/nikouliciousp/AIPythonProjects">🔗</a></td>
 </tr>
 <tr>
-<td><b>AG701-Crime-Analysis</b></td>
+<td align="center"><b>AG701-Crime-Analysis</b></td>
 <td>Data analysis and visualisation — California crime dataset</td>
-<td>Python · Pandas · Matplotlib · Data Science</td>
-<td><a href="https://github.com/nikouliciousp/AG701-Crime-Analysis-California">🔗 View</a></td>
+<td align="center">Python · Pandas · Matplotlib</td>
+<td align="center"><a href="https://github.com/nikouliciousp/AG701-Crime-Analysis-California">🔗</a></td>
 </tr>
 <tr>
-<td><b>neurons_experiment</b></td>
+<td align="center"><b>neurons_experiment</b></td>
 <td>Neural network research and experimentation</td>
-<td>Python · Deep Learning · TensorFlow / PyTorch</td>
-<td><a href="https://github.com/nikouliciousp/neurons_experiment">🔗 View</a></td>
+<td align="center">Python · Deep Learning · PyTorch</td>
+<td align="center"><a href="https://github.com/nikouliciousp/neurons_experiment">🔗</a></td>
 </tr>
 <tr>
-<td><b>Data-Probability-Statistics</b></td>
+<td align="center"><b>Data-Probability-Statistics</b></td>
 <td>Statistical analysis, probability, and data processing</td>
-<td>Python · NumPy · SciPy · Statistics</td>
-<td><a href="https://github.com/nikouliciousp/Data-Probability-Statistics">🔗 View</a></td>
+<td align="center">Python · NumPy · SciPy</td>
+<td align="center"><a href="https://github.com/nikouliciousp/Data-Probability-Statistics">🔗</a></td>
 </tr>
 <tr>
-<td><b>IntroPython</b></td>
+<td align="center"><b>IntroPython</b></td>
 <td>Python fundamentals, OOP, and core programming concepts</td>
-<td>Python · OOP · Algorithms</td>
-<td><a href="https://github.com/nikouliciousp/IntroPython">🔗 View</a></td>
+<td align="center">Python · OOP · Algorithms</td>
+<td align="center"><a href="https://github.com/nikouliciousp/IntroPython">🔗</a></td>
 </tr>
 </table>
+
+</div>
 
 ### 🌐 Web Development — Full Stack
 
+<div align="center">
+
 <table>
 <tr>
-<th>Project</th>
-<th>Description</th>
-<th>Stack</th>
-<th>Link</th>
+<th width="22%">Project</th>
+<th width="40%">Description</th>
+<th width="28%">Stack</th>
+<th width="10%">Link</th>
 </tr>
 <tr>
-<td><b>NewsProjectPython</b></td>
+<td align="center"><b>NewsProjectPython</b></td>
 <td>Full-stack news portal with REST API</td>
-<td>Python · Django · PostgreSQL · REST API</td>
-<td><a href="https://github.com/nikouliciousp/NewsProjectPython">🔗 View</a></td>
+<td align="center">Django · PostgreSQL · REST API</td>
+<td align="center"><a href="https://github.com/nikouliciousp/NewsProjectPython">🔗</a></td>
 </tr>
 <tr>
-<td><b>ProfilesAppDJango</b></td>
+<td align="center"><b>ProfilesAppDJango</b></td>
 <td>User profiles and authentication management system</td>
-<td>Python · Django · ORM · Auth</td>
-<td><a href="https://github.com/nikouliciousp/ProfilesAppDJango">🔗 View</a></td>
+<td align="center">Django · ORM · Auth</td>
+<td align="center"><a href="https://github.com/nikouliciousp/ProfilesAppDJango">🔗</a></td>
 </tr>
 <tr>
-<td><b>EBookAppDJango</b></td>
+<td align="center"><b>EBookAppDJango</b></td>
 <td>E-book platform and digital library management</td>
-<td>Python · Django · Database Design</td>
-<td><a href="https://github.com/nikouliciousp/EBookAppDJango">🔗 View</a></td>
+<td align="center">Django · Database Design</td>
+<td align="center"><a href="https://github.com/nikouliciousp/EBookAppDJango">🔗</a></td>
 </tr>
 <tr>
-<td><b>IntroAngularTailwind</b></td>
+<td align="center"><b>IntroAngularTailwind</b></td>
 <td>Modern SPA with Angular and Tailwind CSS</td>
-<td>Angular · TypeScript · Tailwind CSS · RxJS</td>
-<td><a href="https://github.com/nikouliciousp/IntroAngularTailwind">🔗 View</a></td>
+<td align="center">Angular · TypeScript · Tailwind · RxJS</td>
+<td align="center"><a href="https://github.com/nikouliciousp/IntroAngularTailwind">🔗</a></td>
 </tr>
 <tr>
-<td><b>IntroTypeScript</b></td>
+<td align="center"><b>IntroTypeScript</b></td>
 <td>Angular and TypeScript best practices</td>
-<td>Angular · TypeScript · Components</td>
-<td><a href="https://github.com/nikouliciousp/IntroTypeScript">🔗 View</a></td>
+<td align="center">Angular · TypeScript · Components</td>
+<td align="center"><a href="https://github.com/nikouliciousp/IntroTypeScript">🔗</a></td>
 </tr>
 <tr>
-<td><b>WebApp-Flex-Grid</b></td>
-<td>Responsive CSS layout techniques — Flexbox and Grid</td>
-<td>HTML · CSS · JavaScript</td>
-<td><a href="https://github.com/nikouliciousp/WebApp-Flex-Grid">🔗 View</a></td>
+<td align="center"><b>WebApp-Flex-Grid</b></td>
+<td>Responsive CSS layout — Flexbox and Grid</td>
+<td align="center">HTML · CSS · JavaScript</td>
+<td align="center"><a href="https://github.com/nikouliciousp/WebApp-Flex-Grid">🔗</a></td>
 </tr>
 <tr>
-<td><b>SimpleDynamicWebApp</b></td>
+<td align="center"><b>SimpleDynamicWebApp</b></td>
 <td>Dynamic web application with DOM manipulation</td>
-<td>JavaScript · Web APIs · DOM</td>
-<td><a href="https://github.com/nikouliciousp/SimpleDynamicWebApp">🔗 View</a></td>
+<td align="center">JavaScript · Web APIs · DOM</td>
+<td align="center"><a href="https://github.com/nikouliciousp/SimpleDynamicWebApp">🔗</a></td>
 </tr>
 </table>
+
+</div>
 
 ### 🔷 C# & .NET Development
 
+<div align="center">
+
 <table>
 <tr>
-<th>Project</th>
-<th>Description</th>
-<th>Stack</th>
-<th>Link</th>
+<th width="22%">Project</th>
+<th width="40%">Description</th>
+<th width="28%">Stack</th>
+<th width="10%">Link</th>
 </tr>
 <tr>
-<td><b>CFHCSharpIntro</b></td>
+<td align="center"><b>CFHCSharpIntro</b></td>
 <td>C# programming fundamentals and OOP</td>
-<td>C# · OOP · .NET</td>
-<td><a href="https://github.com/nikouliciousp/CFHCSharpIntro">🔗 View</a></td>
+<td align="center">C# · OOP · .NET</td>
+<td align="center"><a href="https://github.com/nikouliciousp/CFHCSharpIntro">🔗</a></td>
 </tr>
 <tr>
-<td><b>NetProgramming</b></td>
+<td align="center"><b>NetProgramming</b></td>
 <td>Advanced .NET programming projects</td>
-<td>C# · .NET Framework · Web Development</td>
-<td><a href="https://github.com/nikouliciousp/NetProgramming">🔗 View</a></td>
+<td align="center">C# · .NET Framework · Web</td>
+<td align="center"><a href="https://github.com/nikouliciousp/NetProgramming">🔗</a></td>
 </tr>
 </table>
+
+</div>
 
 ### 🧪 Testing & Utilities
 
+<div align="center">
+
 <table>
 <tr>
-<th>Project</th>
-<th>Description</th>
-<th>Stack</th>
-<th>Link</th>
+<th width="22%">Project</th>
+<th width="40%">Description</th>
+<th width="28%">Stack</th>
+<th width="10%">Link</th>
 </tr>
 <tr>
-<td><b>Selenium_Test</b></td>
+<td align="center"><b>Selenium_Test</b></td>
 <td>Automated browser testing framework</td>
-<td>Python · Selenium WebDriver · Test Automation</td>
-<td><a href="https://github.com/nikouliciousp/Selenium_Test">🔗 View</a></td>
+<td align="center">Python · Selenium WebDriver</td>
+<td align="center"><a href="https://github.com/nikouliciousp/Selenium_Test">🔗</a></td>
 </tr>
 <tr>
-<td><b>swot</b></td>
+<td align="center"><b>swot</b></td>
 <td>Academic email domain identifier utility</td>
-<td>Python · Ruby · Email Validation</td>
-<td><a href="https://github.com/nikouliciousp/swot">🔗 View</a></td>
+<td align="center">Python · Ruby · Email Validation</td>
+<td align="center"><a href="https://github.com/nikouliciousp/swot">🔗</a></td>
 </tr>
 </table>
+
+</div>
 
 ### 📚 Academic & Research Projects
 
+<div align="center">
+
 <table>
 <tr>
-<th>Project</th>
-<th>Description</th>
-<th>Stack</th>
-<th>Link</th>
+<th width="22%">Project</th>
+<th width="40%">Description</th>
+<th width="28%">Stack</th>
+<th width="10%">Link</th>
 </tr>
 <tr>
-<td><b>NTUA-Projects</b></td>
+<td align="center"><b>NTUA-Projects</b></td>
 <td>Academic projects collection from NTUA</td>
-<td>Multiple Languages</td>
-<td><a href="https://github.com/nikouliciousp/NTUA-Projects">🔗 View</a></td>
+<td align="center">Multiple Languages</td>
+<td align="center"><a href="https://github.com/nikouliciousp/NTUA-Projects">🔗</a></td>
 </tr>
 <tr>
-<td><b>FinalProject</b></td>
+<td align="center"><b>FinalProject</b></td>
 <td>University capstone integration project</td>
-<td>Multiple Technologies</td>
-<td><a href="https://github.com/nikouliciousp/FinalProject">🔗 View</a></td>
+<td align="center">Multiple Technologies</td>
+<td align="center"><a href="https://github.com/nikouliciousp/FinalProject">🔗</a></td>
 </tr>
 <tr>
-<td><b>TestApp</b></td>
+<td align="center"><b>TestApp</b></td>
 <td>Various testing and demo applications</td>
-<td>Multiple Frameworks</td>
-<td><a href="https://github.com/nikouliciousp/TestApp">🔗 View</a></td>
+<td align="center">Multiple Frameworks</td>
+<td align="center"><a href="https://github.com/nikouliciousp/TestApp">🔗</a></td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -461,7 +506,7 @@ Coding Factory — Advanced Programming
 <div align="center">
 
 | Metric | Value |
-|--------|-------|
+|:------:|:-----:|
 | **Total Repositories** | 27 active projects |
 | **Primary Languages** | Java (28%) · Python (25%) · C# (18%) |
 | **Technology Domains** | 6 major categories |
@@ -507,7 +552,7 @@ Coding Factory — Advanced Programming
 <div align="center">
 
 | Area | Skills |
-|------|--------|
+|:----:|:------|
 | **Architecture** | System design · Scalability · API design · Database architecture |
 | **Development** | Full-stack · Clean code · Design patterns · SOLID principles |
 | **Leadership** | Project coordination · Team collaboration · Agile practices |
