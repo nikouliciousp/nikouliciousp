@@ -213,15 +213,22 @@ Digital systems, telecommunications, software architecture, and algorithms
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nikouliciousp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub Stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nikouliciousp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikouliciousp&show_icons=true&theme=default&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub Stats" height="180" />
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nikouliciousp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikouliciousp&layout=compact&theme=default&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" height="180" />
+</picture>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikouliciousp&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=nikouliciousp&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nikouliciousp&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://streak-stats.demolab.com?user=nikouliciousp&theme=default&hide_border=true&cache_seconds=86400" alt="GitHub Streak" height="180" />
+</picture>
 
 </div>
 
@@ -231,15 +238,56 @@ Digital systems, telecommunications, software architecture, and algorithms
 
 <div align="center">
 
-| Technology | Distribution | Repositories |
-|:----------:|:------------:|:------------|
-| ☕ Java | ████████████████ **28%** | 8 repos — enterprise & desktop apps |
-| 🐍 Python | ███████████████ **25%** | 5 repos — AI, web backend, data science |
-| 🔷 C# | ██████████ **18%** | 2 repos — .NET web applications |
-| 📜 JavaScript / TypeScript | ██████ **11%** | 3 repos — frontend development |
-| 📋 C / C++ | ████ **7%** | 1 repo — systems programming |
-| 🔤 SML | ████ **7%** | 1 repo — functional programming |
-| 🧠 Prolog | ██ **4%** | 1 repo — logic programming |
+<table>
+<tr>
+<th width="20%">Language</th>
+<th width="45%">Distribution</th>
+<th width="10%">Share</th>
+<th width="25%">Focus</th>
+</tr>
+<tr>
+<td align="center"><b>Java</b></td>
+<td><img src="https://progress-bar.xyz/28?scale=100&width=300&color=f89820&suffix=%" alt="28%" /></td>
+<td align="center"><b>28%</b></td>
+<td>Enterprise &amp; desktop apps</td>
+</tr>
+<tr>
+<td align="center"><b>Python</b></td>
+<td><img src="https://progress-bar.xyz/25?scale=100&width=300&color=3572A5&suffix=%" alt="25%" /></td>
+<td align="center"><b>25%</b></td>
+<td>AI, web backend, data science</td>
+</tr>
+<tr>
+<td align="center"><b>C#</b></td>
+<td><img src="https://progress-bar.xyz/18?scale=100&width=300&color=178600&suffix=%" alt="18%" /></td>
+<td align="center"><b>18%</b></td>
+<td>.NET web applications</td>
+</tr>
+<tr>
+<td align="center"><b>JavaScript / TypeScript</b></td>
+<td><img src="https://progress-bar.xyz/11?scale=100&width=300&color=f1e05a&suffix=%" alt="11%" /></td>
+<td align="center"><b>11%</b></td>
+<td>Frontend development</td>
+</tr>
+<tr>
+<td align="center"><b>C / C++</b></td>
+<td><img src="https://progress-bar.xyz/7?scale=100&width=300&color=555555&suffix=%" alt="7%" /></td>
+<td align="center"><b>7%</b></td>
+<td>Systems programming</td>
+</tr>
+<tr>
+<td align="center"><b>SML</b></td>
+<td><img src="https://progress-bar.xyz/7?scale=100&width=300&color=dc566d&suffix=%" alt="7%" /></td>
+<td align="center"><b>7%</b></td>
+<td>Functional programming</td>
+</tr>
+<tr>
+<td align="center"><b>Prolog</b></td>
+<td><img src="https://progress-bar.xyz/4?scale=100&width=300&color=74283c&suffix=%" alt="4%" /></td>
+<td align="center"><b>4%</b></td>
+<td>Logic programming</td>
+</tr>
+</table>
 
 </div>
 
@@ -505,12 +553,45 @@ Digital systems, telecommunications, software architecture, and algorithms
 
 <div align="center">
 
-| Metric | Value |
-|:------:|:-----:|
-| **Total Repositories** | 27 active projects |
-| **Primary Languages** | Java (28%) · Python (25%) · C# (18%) |
-| **Technology Domains** | 6 major categories |
-| **Key Expertise** | Enterprise dev · Web full-stack · AI/ML · Systems design |
+<table>
+<tr>
+<td align="center" width="25%">
+<br/>
+<h2>27</h2>
+<b>Active Repositories</b>
+<br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>
+<h2>7+</h2>
+<b>Languages Used</b>
+<br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>
+<h2>6</h2>
+<b>Technology Domains</b>
+<br/><br/>
+</td>
+<td align="center" width="25%">
+<br/>
+<h2>3</h2>
+<b>Certifications</b>
+<br/><br/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+| Domain | Primary Language | Repositories | Focus |
+|:------:|:---------------:|:------------:|:------|
+| ☕ Enterprise Development | Java | 8 repos | Spring Boot · Hibernate · REST APIs |
+| 🤖 AI & Data Science | Python | 5 repos | TensorFlow · PyTorch · Pandas |
+| 🌐 Web Full-Stack | Python · TypeScript | 7 repos | Django · Angular · Tailwind |
+| 🔷 .NET Applications | C# | 2 repos | ASP.NET · Desktop apps |
+| 🧪 Testing & Utilities | Python | 2 repos | Selenium · Automation |
+| 📚 Academic & Research | Multiple | 3 repos | NTUA · AI experiments |
 
 </div>
 
