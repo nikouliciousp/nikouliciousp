@@ -2,608 +2,184 @@
 
 <img src="https://raw.githubusercontent.com/nikouliciousp/nikouliciousp/main/back.gif" alt="banner" width="100%" />
 
-# Periklis Nikoulis
+<br/>
 
-### 🎖️ Military Officer • Technical Corps  
-### 🔧 Electrical & Computer Engineer • AI Postgraduate Student
+# Perikles Nikoules
 
-<p>
-Focused on <b>software engineering</b>, <b>artificial intelligence</b>, <b>systems thinking</b>, and <b>technology-driven problem solving</b>.
-</p>
+**Military Officer — Technical Corps &nbsp;|&nbsp; Electrical & Computer Engineer &nbsp;|&nbsp; AI Researcher**
 
-<p>
-<a href="https://github.com/nikouliciousp">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/periklis-nikoulis">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:nikouliciousp@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
+<p>Building robust, scalable systems at the intersection of software engineering,<br/>artificial intelligence, and technology leadership.</p>
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikouliciousp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/periklis-nikoulis)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikouliciousp@gmail.com)
 
 </div>
 
 ---
 
-## 👤 About Me
+## About Me
 
-I am a **Military Officer in the Technical Corps** with a strong academic and technical background in **Electrical and Computer Engineering**. Currently pursuing an **MSc in Artificial Intelligence** [...]
+I am a **Military Officer in the Technical Corps** of the Hellenic Army with a strong academic foundation in **Electrical and Computer Engineering** from NTUA. Currently pursuing an **MSc in Artificial Intelligence** at the University of Essex, I focus on machine learning, neural networks, and scalable system design.
 
-### 💼 Professional Experience & Focus:
+My work spans enterprise software development, full-stack web applications, data science, and technology project management — areas where engineering discipline and analytical thinking converge.
 
-- **Enterprise Software Development** – Full-stack applications using Java, Spring, and modern frameworks
-- **Artificial Intelligence & Machine Learning** – Data analysis, neural networks, predictive modeling
-- **Web Development** – Frontend (Angular, TypeScript) and Backend (Django, Flask, Spring)
-- **Systems Architecture** – Database design, API development, scalability optimization
-- **Project Leadership** – Agile methodologies, team coordination, technology management
-
-I am passionate about building **robust, scalable solutions** that solve real-world problems while maintaining code quality and best practices.
+**Core interests:** software architecture · AI/ML research · full-stack development · systems thinking · technical leadership
 
 ---
 
-## 🎓 Education
+## Education
 
-<table>
-<tr>
-<td width="50%">
-
-### Electrical & Computer Engineering  
-**National Technical University of Athens (NTUA)**  
-Comprehensive background in digital systems, telecommunications, and software architecture
-
-</td>
-<td width="50%">
-
-### MSc in Artificial Intelligence  
-**University of Essex** *(In Progress)*  
-Specializing in machine learning, neural networks, and data science applications
-
-</td>
-</tr>
-</table>
+| Degree | Institution | Status |
+|--------|-------------|--------|
+| MSc in Artificial Intelligence | University of Essex | In progress |
+| MEng in Electrical & Computer Engineering | National Technical University of Athens (NTUA) | Completed |
 
 ---
 
-## 🏆 Professional Certifications & Training
+## Professional Certifications
 
-- 🎖️ **NATO Certification** – Information and Knowledge Management
-- 📊 **Project Management Certification** – Professional standards and Agile practices
-- 💻 **Coding Factory** – Advanced Programming Training (Athens University of Economics and Business)
-
----
-
-## 🛠️ Technical Stack & Expertise
-
-### 💾 Programming Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs" />
-
-| Language | Proficiency | Projects | Experience |
-|----------|------------|----------|------------|
-| **Java** | ⭐⭐⭐⭐⭐ Expert | 8+ Enterprise Apps | Server-side, Desktop, REST APIs |
-| **Python** | ⭐⭐⭐⭐ Advanced | 5+ Data Science & ML | AI, ML, Web Backend |
-| **C#** | ⭐⭐⭐⭐ Advanced | 2+ .NET Projects | Web, Desktop Applications |
-| **C/C++** | ⭐⭐⭐ Intermediate | Academic Projects | Systems, Algorithms |
-| **Prolog** | ⭐⭐⭐ Intermediate | Logic Programming | Academic, AI Logic |
-| **SML** | ⭐⭐⭐ Intermediate | Functional Programming | Academic, Paradigm Learning |
-
-</div>
-
-<br>
-
-### 🎨 Frontend Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,angular,bootstrap" />
-
-| Technology | Level | Use Cases |
-|-----------|-------|-----------|
-| **Angular** | ⭐⭐⭐⭐ Advanced | Component-based web apps, SPAs |
-| **TypeScript** | ⭐⭐⭐⭐ Advanced | Type-safe frontend development |
-| **HTML/CSS** | ⭐⭐⭐⭐⭐ Expert | Semantic markup, responsive design |
-| **Bootstrap** | ⭐⭐⭐⭐ Advanced | Rapid UI prototyping |
-| **Tailwind CSS** | ⭐⭐⭐ Intermediate | Modern utility-first styling |
-
-</div>
-
-<br>
-
-### 🔙 Backend Development & Frameworks
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=django,flask,spring" />
-
-| Framework | Language | Level | Use Cases |
-|-----------|----------|-------|-----------|
-| **Spring Boot** | Java | ⭐⭐⭐⭐⭐ Expert | Enterprise web apps, REST APIs, microservices |
-| **Django** | Python | ⭐⭐⭐⭐ Advanced | Full-stack web applications, admin dashboards |
-| **Flask** | Python | ⭐⭐⭐⭐ Advanced | Lightweight APIs, microservices |
-| **Hibernate** | Java | ⭐⭐⭐⭐ Advanced | ORM, database persistence, JPA |
-| **JAX-RS** | Java | ⭐⭐⭐⭐ Advanced | RESTful web services |
-
-</div>
-
-<br>
-
-### 🗄️ Database & Data Management
-
-<div align="center">
-
-| Technology | Experience | Applications |
-|-----------|-----------|--------------|
-| **SQL** | ⭐⭐⭐⭐⭐ Expert | Data modeling, complex queries, optimization |
-| **Relational Databases** | ⭐⭐⭐⭐⭐ Expert | MySQL, PostgreSQL, SQL Server |
-| **ORM** | ⭐⭐⭐⭐ Advanced | Hibernate, Entity Framework |
-| **Data Analysis** | ⭐⭐⭐⭐ Advanced | Python (Pandas, NumPy, Scikit-learn) |
-
-</div>
-
-<br>
-
-### ⚙️ DevOps, Tools & Version Control
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,maven" />
-
-| Tool | Level | Expertise |
-|------|-------|-----------|
-| **Git/GitHub** | ⭐⭐⭐⭐⭐ Expert | Version control, collaboration, workflows |
-| **Docker** | ⭐⭐⭐⭐ Advanced | Containerization, deployment |
-| **Maven** | ⭐⭐⭐⭐ Advanced | Build automation, dependency management |
-| **CI/CD** | ⭐⭐⭐ Intermediate | Automated testing and deployment pipelines |
-
-</div>
-
-<br>
-
-### 🤖 AI & Machine Learning
-
-<div align="center">
-
-| Skill | Level | Technologies |
-|-------|-------|--------------|
-| **Machine Learning** | ⭐⭐⭐⭐ Advanced | TensorFlow, PyTorch, Scikit-learn |
-| **Neural Networks** | ⭐⭐⭐⭐ Advanced | Deep Learning, CNN, RNN |
-| **Data Science** | ⭐⭐⭐⭐ Advanced | Statistical Analysis, Data Visualization |
-| **Data Engineering** | ⭐⭐⭐ Intermediate | ETL, Data Pipeline Design |
-
-</div>
-
-<br>
-
-### 🧪 Testing & Quality Assurance
-
-<div align="center">
-
-| Tool/Framework | Usage |
-|---|---|
-| **Selenium** | Automated Web Testing |
-| **JUnit** | Unit Testing (Java) |
-| **Test-Driven Development** | QA Best Practices |
-
-</div>
+| Certification | Issuing Organization |
+|--------------|---------------------|
+| Information and Knowledge Management | NATO |
+| Professional Project Management | Workearly |
+| Coding Factory — Advanced Programming | Athens University of Economics and Business |
 
 ---
 
-## 📊 Engineering Focus Areas
+## Technical Stack
 
-<div align="center">
+### Programming Languages
 
-<table>
-<tr>
-<td align="center" width="25%">
-🤖<br>
-<b>Artificial Intelligence & ML</b><br>
-<small>Neural networks, data science, predictive models</small>
-</td>
-<td align="center" width="25%">
-🏗️<br>
-<b>System Design & Architecture</b><br>
-<small>Scalable solutions, database design, APIs</small>
-</td>
-<td align="center" width="25%">
-💻<br>
-<b>Software Engineering</b><br>
-<small>Clean code, design patterns, best practices</small>
-</td>
-<td align="center" width="25%">
-📋<br>
-<b>Project & Tech Management</b><br>
-<small>Leadership, Agile, team coordination</small>
-</td>
-</tr>
-</table>
+| Language | Proficiency | Primary Use |
+|----------|-------------|-------------|
+| Java | Expert | Enterprise apps, REST APIs, desktop |
+| Python | Advanced | AI/ML, data science, web backend |
+| C# | Advanced | .NET web and desktop applications |
+| TypeScript / JavaScript | Advanced | Frontend development |
+| C / C++ | Intermediate | Systems programming, algorithms |
+| Prolog | Intermediate | Logic programming, AI reasoning |
+| SML | Intermediate | Functional programming |
 
-</div>
+### Frameworks & Libraries
+
+**Backend:** Spring Boot · Django · Flask · Hibernate / JPA · JAX-RS
+
+**Frontend:** Angular · Bootstrap · Tailwind CSS
+
+**AI / Data:** TensorFlow · PyTorch · Scikit-learn · Pandas · NumPy · SciPy
+
+**DevOps & Tools:** Docker · Git / GitHub · Maven · Selenium · JUnit
 
 ---
 
-## 📈 Language Activity Distribution
+## Language Activity — 27 Repositories
 
-<div align="center">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikouliciousp&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400)
 
-| Technology | Progress | Projects | Experience |
-|:--|:--|:--|:--|
-| ☕ Java | ▰▰▰▰▰▰▰▰▰▰▰▰▰▰ **28%** | 8 Repos | Enterprise & Desktop Apps |
-| 🐍 Python | ▰▰▰▰▰▰▰▰▰▰▰▰▰ **25%** | 5 Repos | AI, Web Backend, Data Science |
-| 🔷 C# | ▰▰▰▰▰▰▰▰▰ **18%** | 2 Repos | .NET Web Applications |
-| 📜 JavaScript | ▰▰▰▰▰▰ **11%** | 3 Repos | Frontend Development |
-| 📋 C/C++ | ▰▰▰▰ **7%** | 1 Repo | Systems Programming |
-| 🔤 SML | ▰▰▰▰ **7%** | 1 Repo | Functional Programming |
-| 🧠 Prolog | ▰▰ **4%** | 1 Repo | Logic Programming |
-
-</div>
+| Language | Share | Repositories |
+|----------|-------|--------------|
+| Java | 28% | 8 repos |
+| Python | 25% | 5 repos |
+| C# | 18% | 2 repos |
+| JavaScript / TypeScript | 11% | 3 repos |
+| C / C++ | 7% | 1 repo |
+| SML | 7% | 1 repo |
+| Prolog | 4% | 1 repo |
 
 ---
 
-## 📊 GitHub Profile Statistics
+## GitHub Statistics
 
 <div align="center">
 
-<a href="https://github.com/nikouliciousp">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikouliciousp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-</a>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikouliciousp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400)](https://github.com/nikouliciousp)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nikouliciousp&theme=tokyonight&hide_border=true)](https://github.com/nikouliciousp)
 
 </div>
 
-<div align="center">
-
-<a href="https://github.com/nikouliciousp">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikouliciousp&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-</a>
-
-</div>
+> **Note:** If statistics cards appear blank, they may be loading. Refresh the page or view directly on [github.com/nikouliciousp](https://github.com/nikouliciousp).
 
 ---
 
-## 🔥 Contribution Statistics
+## Featured Projects
 
-<div align="center">
+### Java & Enterprise Development
 
-<a href="https://github.com/nikouliciousp">
-  <img src="https://streak-stats.demolab.com?user=nikouliciousp&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [SchoolWebApp](https://github.com/nikouliciousp/SchoolWebApp) | Full school management system with REST API | Java, C#, ASP.NET, SQL |
+| [SchoolAppHibernate](https://github.com/nikouliciousp/SchoolAppHibernate) | ORM-based persistence layer | Java, Hibernate, JPA, MySQL |
+| [SchoolJaxRsApp](https://github.com/nikouliciousp/SchoolJaxRsApp) | RESTful backend for school management | Java, JAX-RS |
+| [MavenSwingSchoolApp](https://github.com/nikouliciousp/MavenSwingSchoolApp) | Desktop app with Maven build management | Java, Maven, Swing |
+| [CodingJavaLab](https://github.com/nikouliciousp/CodingJavaLab) | Algorithms and data structures exercises | Java |
 
-</div>
+### Python, AI & Data Science
 
----
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [AIPythonProjects](https://github.com/nikouliciousp/AIPythonProjects) | ML implementations across multiple domains | Python, TensorFlow, PyTorch |
+| [AG701-Crime-Analysis](https://github.com/nikouliciousp/AG701-Crime-Analysis-California) | Data analysis & visualization — California dataset | Python, Pandas, Matplotlib |
+| [neurons_experiment](https://github.com/nikouliciousp/neurons_experiment) | Neural network research and experimentation | Python, Deep Learning |
+| [Data-Probability-Statistics](https://github.com/nikouliciousp/Data-Probability-Statistics) | Statistical analysis and probability | Python, NumPy, SciPy |
 
-## 🎯 Featured Projects & Portfolio
+### Web Development — Full Stack
 
-### ☕ **Java & Enterprise Development** (28% - 8 Repositories)
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [NewsProjectPython](https://github.com/nikouliciousp/NewsProjectPython) | Full-stack news portal application | Django, PostgreSQL, REST |
+| [ProfilesAppDJango](https://github.com/nikouliciousp/ProfilesAppDJango) | User profile & authentication system | Django, ORM |
+| [IntroAngularTailwind](https://github.com/nikouliciousp/IntroAngularTailwind) | Modern SPA with Angular & Tailwind CSS | Angular, TypeScript, Tailwind |
+| [EBookAppDJango](https://github.com/nikouliciousp/EBookAppDJango) | E-book platform & library management | Django |
 
-<table>
-<tr>
-<th>Project</th>
-<th>Description</th>
-<th>Tech Stack</th>
-<th>Link</th>
-</tr>
-<tr>
-<td><b>SchoolWebApp</b></td>
-<td>Full-featured School Management System with Web API</td>
-<td>Java, C#, ASP.NET, SQL</td>
-<td><a href="https://github.com/nikouliciousp/SchoolWebApp">🔗 View</a></td>
-</tr>
-<tr>
-<td><b>SchoolJaxRsApp</b></td>
-<td>RESTful API backend for school management</td>
-<td>Java, JAX-RS, REST APIs</td>
-<td><a href="https://github.com/nikouliciousp/SchoolJaxRsApp">🔗 View</a></td>
-</tr>
-<tr>
-<td><b>SchoolAppHibernate</b></td>
-<td>ORM-based persistence layer implementation</td>
-<td>Java, Hibernate, JPA, MySQL</td>
-<td><a href="https://github.com/nikouliciousp/SchoolAppHibernate">🔗 View</a></td>
-</tr>
-<tr>
-<td><b>MavenSwingSchoolApp</b></td>
-<td>Desktop application with Maven build management</td>
-<td>Java, Maven, Swing, GUI</td>
-<td><a href="https://github.com/nikouliciousp/MavenSwingSchoolApp">🔗 View</a></td>
-</tr>
-<tr>
-<td><b>JavaSwingDemoProject</b></td>
-<td>GUI Desktop Application Demo</td>
-<td>Java, Swing, Event Handling</td>
-<td><a href="https://github.com/nikouliciousp/JavaSwingDemoProject">🔗 View</a></td>
-</tr>
-<tr>
-<td><b>JavaSwingWDemoProject</b></td>
-<td>Advanced Desktop Application with Windows</td>
-<td>Java, Swing, Threading</td>
-<td><a href="https://github.com/nikouliciousp/JavaSwingWDemoProject">🔗 View</a></td>
-</tr>
-<tr>
-<td><b>SwingStudentsTeachersApp</b></td>
-<td>School Management Desktop Application</td>
-<td>Java, Swing, MVC Pattern</td>
-<td><a href="https://github.com/nikouliciousp/SwingStudentsTeachersApp">🔗 View</a></td>
-</tr>
-<tr>
-<td><b>CodingJavaLab</b></td>
-<td>Java Programming Exercises & Algorithms</td>
-<td>Java, Data Structures, Algorithms</td>
-<td><a href="https://github.com/nikouliciousp/CodingJavaLab">🔗 View</a></td>
-</tr>
-</table>
+### C# & .NET Development
 
-<br>
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [NetProgramming](https://github.com/nikouliciousp/NetProgramming) | Advanced .NET programming projects | C#, .NET |
+| [CFHCSharpIntro](https://github.com/nikouliciousp/CFHCSharpIntro) | C# fundamentals and OOP | C#, .NET |
 
-### 🐍 **Python, AI & Machine Learning** (25% - 5 Repositories)
+### Testing & Quality Assurance
 
-<table>
-<tr>
-<th>Project</th>
-<th>Description</th>
-<th>Tech Stack</th>
-<th>Link</th>
-</tr>
-<tr>
-<td><b>AIPythonProjects</b></td>
-<td>Comprehensive AI & Machine Learning implementations</td>
-<td>Python, TensorFlow, PyTorch, NumPy, Pandas</td>
-<td><a href="https://github.com/nikouliciousp/AIPythonProjects">🔗 View</a></td>
-</tr>
-<tr>
-<td><b>AG701-Crime-Analysis</b></td>
-<td>Data analysis and visualization project</td>
-<td>Python, Pandas, Matplotlib, Data Science</td>
-<td><a href="https://github.com/nikouliciousp/AG701-Crime-Analysis-California">🔗 View</a></td>
-</tr>
-<tr>
-<td><b>neurons_experiment</b></td>
-<td>Neural Networks Research & Experimentation</td>
-<td>Python, Deep Learning, TensorFlow/PyTorch</td>
-<td><a href="https://github.com/nikouliciousp/neurons_experiment">🔗 View</a></td>
-</tr>
-<tr>
-<td><b>Data-Probability-Statistics</b></td>
-<td>Statistical Analysis & Data Processing</td>
-<td>Python, NumPy, SciPy, Statistics</td>
-<td><a href="https://github.com/nikouliciousp/Data-Probability-Statistics">🔗 View</a></td>
-</tr>
-<tr>
-<td><b>IntroPython</b></td>
-<td>Python Fundamentals & Core Concepts</td>
-<td>Python, OOP, Algorithms</td>
-<td><a href="https://github.com/nikouliciousp/IntroPython">🔗 View</a></td>
-</tr>
-</table>
-
-<br>
-
-### 🌐 **Web Development - Full Stack** (22% - 7 Repositories)
-
-<table>
-<tr>
-<th>Project</th>
-<th>Description</th>
-<th>Tech Stack</th>
-<th>Link</th>
-</tr>
-<tr>
-<td><b>NewsProjectPython</b></td>
-<td>Full-stack News Portal Application</td>
-<td>Python, Django, PostgreSQL, REST API</td>
-<td><a href="https://github.com/nikouliciousp/NewsProjectPython">🔗 View</a></td>
-</tr>
-<tr>
-<td><b>ProfilesAppDJango</b></td>
-<td>User Profiles & Management System</td>
-<td>Python, Django, Authentication, ORM</td>
-<td><a href="https://github.com/nikouliciousp/ProfilesAppDJango">🔗 View</a></td>
-</tr>
-<tr>
-<td><b>EBookAppDJango</b></td>
-<td>E-Book Platform & Library Management</td>
-<td>Python, Django, Database Design</td>
-<td><a href="https://github.com/nikouliciousp/EBookAppDJango">🔗 View</a></td>
-</tr>
-<tr>
-<td><b>IntroAngularTailwind</b></td>
-<td>Modern Frontend with Angular & Tailwind CSS</td>
-<td>Angular, TypeScript, Tailwind CSS, RxJS</td>
-<td><a href="https://github.com/nikouliciousp/IntroAngularTailwind">🔗 View</a></td>
-</tr>
-<tr>
-<td><b>IntroTypeScript</b></td>
-<td>Angular & TypeScript Best Practices</td>
-<td>Angular, TypeScript, Components</td>
-<td><a href="https://github.com/nikouliciousp/IntroTypeScript">🔗 View</a></td>
-</tr>
-<tr>
-<td><b>WebApp-Flex-Grid</b></td>
-<td>Responsive CSS Layout Techniques</td>
-<td>HTML, CSS (Flexbox, Grid), JavaScript</td>
-<td><a href="https://github.com/nikouliciousp/WebApp-Flex-Grid">🔗 View</a></td>
-</tr>
-<tr>
-<td><b>SimpleDynamicWebApp</b></td>
-<td>Dynamic Web Application</td>
-<td>JavaScript, Web APIs, DOM Manipulation</td>
-<td><a href="https://github.com/nikouliciousp/SimpleDynamicWebApp">🔗 View</a></td>
-</tr>
-</table>
-
-<br>
-
-### 🔷 **C# & .NET Development** (18% - 2 Repositories)
-
-<table>
-<tr>
-<th>Project</th>
-<th>Description</th>
-<th>Tech Stack</th>
-<th>Link</th>
-</tr>
-<tr>
-<td><b>CFHCSharpIntro</b></td>
-<td>C# Programming Fundamentals</td>
-<td>C#, OOP, .NET Basics</td>
-<td><a href="https://github.com/nikouliciousp/CFHCSharpIntro">🔗 View</a></td>
-</tr>
-<tr>
-<td><b>NetProgramming</b></td>
-<td>Advanced .NET Programming Projects</td>
-<td>C#, .NET Framework, Web Development</td>
-<td><a href="https://github.com/nikouliciousp/NetProgramming">🔗 View</a></td>
-</tr>
-</table>
-
-<br>
-
-### 🧪 **Testing, Tools & Utilities** (7% - 2 Repositories)
-
-<table>
-<tr>
-<th>Project</th>
-<th>Description</th>
-<th>Tech Stack</th>
-<th>Link</th>
-</tr>
-<tr>
-<td><b>Selenium_Test</b></td>
-<td>Automated Browser Testing Framework</td>
-<td>Python, Selenium WebDriver, Test Automation</td>
-<td><a href="https://github.com/nikouliciousp/Selenium_Test">🔗 View</a></td>
-</tr>
-<tr>
-<td><b>swot</b></td>
-<td>Academic Email Domain Identifier</td>
-<td>Python/Ruby, Email Validation, Utility</td>
-<td><a href="https://github.com/nikouliciousp/swot">🔗 View</a></td>
-</tr>
-</table>
-
-<br>
-
-### 📚 **Academic & Learning Projects** (7% - 3 Repositories)
-
-<table>
-<tr>
-<th>Project</th>
-<th>Description</th>
-<th>Tech Stack</th>
-<th>Link</th>
-</tr>
-<tr>
-<td><b>NTUA-Projects</b></td>
-<td>Collection of Academic Projects from NTUA</td>
-<td>Multiple Languages, Various Concepts</td>
-<td><a href="https://github.com/nikouliciousp/NTUA-Projects">🔗 View</a></td>
-</tr>
-<tr>
-<td><b>FinalProject</b></td>
-<td>University Capstone Project</td>
-<td>Multiple Technologies, Integration</td>
-<td><a href="https://github.com/nikouliciousp/FinalProject">🔗 View</a></td>
-</tr>
-<tr>
-<td><b>TestApp</b></td>
-<td>Various Testing & Demo Applications</td>
-<td>Multiple Frameworks, Experimentation</td>
-<td><a href="https://github.com/nikouliciousp/TestApp">🔗 View</a></td>
-</tr>
-</table>
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [Selenium_Test](https://github.com/nikouliciousp/Selenium_Test) | Automated browser testing framework | Python, Selenium WebDriver |
 
 ---
 
-## 📊 Project Statistics & Overview
+## Current Focus
 
-<div align="center">
-
-| Metric | Value |
-|--------|-------|
-| **Total Repositories** | 27 Active Projects |
-| **Primary Languages** | Java (28%) • Python (25%) • C# (18%) |
-| **Technology Areas** | 6 Major Categories |
-| **Key Expertise** | Enterprise Development • Web Applications • AI/ML • Systems Design |
-| **Development Focus** | Full-Stack Applications, Scalable Solutions, Best Practices |
-
-</div>
+- **Advanced AI & Deep Learning** — MSc coursework in neural architectures, NLP, and computer vision
+- **Engineering Leadership** — Agile project management, team coordination, strategic planning
+- **Software Architecture** — Scalable system design, clean code, and SOLID principles
 
 ---
 
-## 🎯 Current Focus & Learning Path
+## Professional Strengths
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-🤖<br>
-<b>Advanced AI & Deep Learning</b><br>
-<small>Neural Networks, NLP, Computer Vision</small><br>
-<small>⏳ MSc in Progress</small>
-</td>
-<td align="center" width="33%">
-📊<br>
-<b>Engineering Project Management</b><br>
-<small>Agile Leadership, Team Scaling</small><br>
-<small>📈 Strategic Planning</small>
-</td>
-<td align="center" width="33%">
-🎓<br>
-<b>Technical Leadership</b><br>
-<small>Architecture, Team Mentoring</small><br>
-<small>🎯 Management Skills</small>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 💼 Professional Strengths
-
-<div align="center">
-
-| Area | Skills |
-|------|--------|
-| **Architecture** | System Design, Scalability, API Design, Database Architecture |
-| **Development** | Full-Stack Development, Clean Code, Design Patterns, SOLID Principles |
-| **Leadership** | Project Coordination, Team Collaboration, Mentoring, Agile Practices |
-| **Problem Solving** | Analytical Thinking, Systems Thinking, Optimization, Debugging |
-| **Innovation** | AI/ML Implementation, Research, Experimentation, Technology Evaluation |
-
-</div>
-
----
-
-## 📞 Contact & Connect
-
-<div align="center">
-
-<a href="https://github.com/nikouliciousp">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/periklis-nikoulis">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:nikouliciousp@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
+| Area | Details |
+|------|---------|
+| Architecture | System design, API development, database modeling, scalability |
+| Development | Full-stack development, design patterns, test-driven development |
+| Leadership | Project coordination, team mentoring, Agile practices |
+| Problem Solving | Analytical thinking, systems thinking, algorithm optimization |
+| Research | AI/ML experimentation, technology evaluation, academic writing |
 
 ---
 
 <div align="center">
 
-### 🚀 **Build with discipline. Learn with curiosity. Improve continuously.**
+**Build with discipline. Learn with curiosity. Improve continuously.**
 
-*Military Officer | Software Engineer | AI Researcher | Technology Leader*
+*Military Officer · Software Engineer · AI Researcher · Technology Leader*
 
-**Last Updated:** May 2026
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikouliciousp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/periklis-nikoulis)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikouliciousp@gmail.com)
+
+*Last updated: May 2026*
 
 </div>
