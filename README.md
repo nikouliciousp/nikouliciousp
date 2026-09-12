@@ -28,7 +28,7 @@
 
 ## 👤 About Me
 
-I am a **Military Officer in the Technical Corps** of the Hellenic Army with a strong academic foundation in **Electrical and Computer Engineering** from NTUA. Currently pursuing an **MSc in Artificial Intelligence** at the University of Essex, I focus on machine learning, neural networks, and scalable system design.
+I am a **Military Officer in the Technical Corps** of the Hellenic Army with a strong academic foundation in **Electrical and Computer Engineering** from NTUA. Currently pursuing an **MSc in Artificial Intelligence** at the University of Essex.
 
 My work spans enterprise software development, full-stack web applications, data science, and technology project management — areas where engineering discipline and analytical thinking converge.
 
@@ -98,29 +98,29 @@ Digital systems, telecommunications,<br/>software architecture, and algorithms
 <tr>
 <td align="center" width="25%">
 <br/>
-<img src="https://img.shields.io/badge/Repositories-27-378ADD?style=flat-square" />
+<img src="https://img.shields.io/badge/Repositories-30-378ADD?style=flat-square" />
 <br/>
-<h3>27</h3>
+<h3>30</h3>
 <b>Active Repositories</b><br/>
 <sub>6 technology domains</sub>
 <br/><br/>
 </td>
 <td align="center" width="25%">
 <br/>
-<img src="https://img.shields.io/badge/Contributions-579-1D9E75?style=flat-square" />
+<img src="https://img.shields.io/badge/Contributions-600+-1D9E75?style=flat-square" />
 <br/>
-<h3>579</h3>
+<h3>600+</h3>
 <b>Total Contributions</b><br/>
 <sub>Since Nov 2017</sub>
 <br/><br/>
 </td>
 <td align="center" width="25%">
 <br/>
-<img src="https://img.shields.io/badge/Languages-7+-BA7517?style=flat-square" />
+<img src="https://img.shields.io/badge/Languages-11-BA7517?style=flat-square" />
 <br/>
-<h3>7+</h3>
+<h3>11</h3>
 <b>Languages Used</b><br/>
-<sub>Java · Python · C#</sub>
+<sub>Java · Python · C# · R</sub>
 <br/><br/>
 </td>
 <td align="center" width="25%">
@@ -147,38 +147,38 @@ Digital systems, telecommunications,<br/>software architecture, and algorithms
 <tr>
 <td align="center">☕ Enterprise Dev</td>
 <td align="center"><img src="https://img.shields.io/badge/Java-f89820?style=flat-square&logo=java&logoColor=white"/></td>
-<td align="center">8</td>
+<td align="center">12</td>
 <td>Spring Boot · Hibernate · REST APIs · Desktop GUI</td>
 </tr>
 <tr>
 <td align="center">🤖 AI & Data Science</td>
 <td align="center"><img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white"/></td>
-<td align="center">5</td>
-<td>TensorFlow · PyTorch · Pandas · Neural Networks</td>
+<td align="center">7</td>
+<td>TensorFlow · PyTorch · Pandas · Neural Networks · Data Analysis</td>
 </tr>
 <tr>
 <td align="center">🌐 Web Full-Stack</td>
 <td align="center"><img src="https://img.shields.io/badge/Python%20%2F%20TS-mixed?style=flat-square&logo=typescript&logoColor=white&color=3178c6"/></td>
 <td align="center">7</td>
-<td>Django · Angular · Tailwind · PostgreSQL</td>
+<td>Django · Angular · Tailwind · PostgreSQL · REST APIs</td>
 </tr>
 <tr>
 <td align="center">🔷 .NET Development</td>
 <td align="center"><img src="https://img.shields.io/badge/C%23-178600?style=flat-square&logo=csharp&logoColor=white"/></td>
-<td align="center">2</td>
+<td align="center">1</td>
 <td>ASP.NET · Desktop applications · .NET Framework</td>
 </tr>
 <tr>
 <td align="center">🧪 Testing & Tools</td>
-<td align="center"><img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Python%2FKotlin-3572A5?style=flat-square&logo=python&logoColor=white"/></td>
 <td align="center">2</td>
 <td>Selenium WebDriver · Test automation · Utilities</td>
 </tr>
 <tr>
 <td align="center">📚 Academic & Research</td>
 <td align="center"><img src="https://img.shields.io/badge/Multiple-888?style=flat-square&logoColor=white"/></td>
-<td align="center">3</td>
-<td>NTUA projects · AI experiments · Capstone work</td>
+<td align="center">1</td>
+<td>NTUA projects · Multi-language implementations</td>
 </tr>
 </table>
 
@@ -186,7 +186,7 @@ Digital systems, telecommunications,<br/>software architecture, and algorithms
 
 ---
 
-## 📈 Language Activity — 27 Repositories
+## 📈 Language Activity — 30 Repositories
 
 <div align="center">
 
@@ -199,45 +199,57 @@ Digital systems, telecommunications,<br/>software architecture, and algorithms
 </tr>
 <tr>
 <td align="center"><b>Java</b></td>
-<td><img src="https://progress-bar.xyz/28?scale=100&width=320&color=f89820&suffix=%" alt="28%" /></td>
-<td align="center"><b>28%</b></td>
-<td>Enterprise &amp; desktop apps</td>
+<td><img src="https://progress-bar.xyz/33?scale=100&width=320&color=f89820&suffix=%" alt="33%" /></td>
+<td align="center"><b>33%</b></td>
+<td>Enterprise & desktop apps</td>
 </tr>
 <tr>
 <td align="center"><b>Python</b></td>
-<td><img src="https://progress-bar.xyz/25?scale=100&width=320&color=3572A5&suffix=%" alt="25%" /></td>
-<td align="center"><b>25%</b></td>
+<td><img src="https://progress-bar.xyz/14?scale=100&width=320&color=3572A5&suffix=%" alt="14%" /></td>
+<td align="center"><b>14%</b></td>
 <td>AI, web backend, data science</td>
 </tr>
 <tr>
+<td align="center"><b>R</b></td>
+<td><img src="https://progress-bar.xyz/11?scale=100&width=320&color=276DC3&suffix=%" alt="11%" /></td>
+<td align="center"><b>11%</b></td>
+<td>Statistical analysis & data visualization</td>
+</tr>
+<tr>
+<td align="center"><b>HTML</b></td>
+<td><img src="https://progress-bar.xyz/11?scale=100&width=320&color=E34C26&suffix=%" alt="11%" /></td>
+<td align="center"><b>11%</b></td>
+<td>Frontend & web markup</td>
+</tr>
+<tr>
 <td align="center"><b>C#</b></td>
-<td><img src="https://progress-bar.xyz/18?scale=100&width=320&color=178600&suffix=%" alt="18%" /></td>
-<td align="center"><b>18%</b></td>
+<td><img src="https://progress-bar.xyz/5?scale=100&width=320&color=178600&suffix=%" alt="5%" /></td>
+<td align="center"><b>5%</b></td>
 <td>.NET web applications</td>
 </tr>
 <tr>
-<td align="center"><b>JS / TS</b></td>
-<td><img src="https://progress-bar.xyz/11?scale=100&width=320&color=f1c40f&suffix=%" alt="11%" /></td>
-<td align="center"><b>11%</b></td>
+<td align="center"><b>JavaScript</b></td>
+<td><img src="https://progress-bar.xyz/4?scale=100&width=320&color=f1c40f&suffix=%" alt="4%" /></td>
+<td align="center"><b>4%</b></td>
+<td>Frontend & DOM manipulation</td>
+</tr>
+<tr>
+<td align="center"><b>TypeScript</b></td>
+<td><img src="https://progress-bar.xyz/2?scale=100&width=320&color=3178c6&suffix=%" alt="2%" /></td>
+<td align="center"><b>2%</b></td>
 <td>Frontend development</td>
 </tr>
 <tr>
-<td align="center"><b>C / C++</b></td>
-<td><img src="https://progress-bar.xyz/7?scale=100&width=320&color=555555&suffix=%" alt="7%" /></td>
-<td align="center"><b>7%</b></td>
-<td>Systems programming</td>
+<td align="center"><b>CSS</b></td>
+<td><img src="https://progress-bar.xyz/1?scale=100&width=320&color=563d7c&suffix=%" alt="1%" /></td>
+<td align="center"><b>1%</b></td>
+<td>Styling & responsive design</td>
 </tr>
 <tr>
-<td align="center"><b>SML</b></td>
-<td><img src="https://progress-bar.xyz/7?scale=100&width=320&color=dc566d&suffix=%" alt="7%" /></td>
-<td align="center"><b>7%</b></td>
-<td>Functional programming</td>
-</tr>
-<tr>
-<td align="center"><b>Prolog</b></td>
-<td><img src="https://progress-bar.xyz/4?scale=100&width=320&color=74283c&suffix=%" alt="4%" /></td>
-<td align="center"><b>4%</b></td>
-<td>Logic programming</td>
+<td align="center"><b>Standard ML · C++ · Kotlin · Prolog</b></td>
+<td><img src="https://progress-bar.xyz/2?scale=100&width=320&color=888&suffix=%" alt="2%" /></td>
+<td align="center"><b>2%</b></td>
+<td>Functional & specialized programming</td>
 </tr>
 </table>
 
@@ -250,7 +262,7 @@ Digital systems, telecommunications,<br/>software architecture, and algorithms
 ### 💾 Languages
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,python,cs,cpp,c,js,ts" />
+<img src="https://skillicons.dev/icons?i=java,python,cs,cpp,c,js,ts,r" />
 <br/><br/>
 
 ![Java](https://img.shields.io/badge/Java-Expert-1D9E75?style=flat-square&logo=openjdk&logoColor=white)
@@ -258,9 +270,11 @@ Digital systems, telecommunications,<br/>software architecture, and algorithms
 ![C#](https://img.shields.io/badge/C%23-Advanced-378ADD?style=flat-square&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-378ADD?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-378ADD?style=flat-square&logo=javascript&logoColor=white)
+![R](https://img.shields.io/badge/R-Intermediate-888780?style=flat-square&logo=r&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-Intermediate-888780?style=flat-square&logo=cplusplus&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-Intermediate-888780?style=flat-square&logoColor=white)
 ![SML](https://img.shields.io/badge/SML-Intermediate-888780?style=flat-square&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-888780?style=flat-square&logo=kotlin&logoColor=white)
 
 </div>
 
@@ -340,8 +354,8 @@ Digital systems, telecommunications,<br/>software architecture, and algorithms
 </picture>
 &nbsp;&nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nikouliciousp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikouliciousp&layout=compact&theme=default&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" height="175" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nikouliciousp&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikouliciousp&layout=compact&theme=default&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" height="175" />
 </picture>
 
 <br/><br/>
@@ -370,7 +384,7 @@ Digital systems, telecommunications,<br/>software architecture, and algorithms
 <tr>
 <td align="center"><b>SchoolWebApp</b></td>
 <td>Full school management system with REST API and web interface</td>
-<td align="center"><img src="https://img.shields.io/badge/Java-f89820?style=flat-square"/> <img src="https://img.shields.io/badge/C%23-178600?style=flat-square"/> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Java-f89820?style=flat-square"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square"/></td>
 <td align="center"><a href="https://github.com/nikouliciousp/SchoolWebApp">🔗</a></td>
 </tr>
 <tr>
@@ -392,6 +406,12 @@ Digital systems, telecommunications,<br/>software architecture, and algorithms
 <td align="center"><a href="https://github.com/nikouliciousp/MavenSwingSchoolApp">🔗</a></td>
 </tr>
 <tr>
+<td align="center"><b>SwingStudentsTeachersApp</b></td>
+<td>School management desktop app — MVC pattern</td>
+<td align="center"><img src="https://img.shields.io/badge/Java-f89820?style=flat-square"/> <img src="https://img.shields.io/badge/MVC-f89820?style=flat-square"/></td>
+<td align="center"><a href="https://github.com/nikouliciousp/SwingStudentsTeachersApp">🔗</a></td>
+</tr>
+<tr>
 <td align="center"><b>JavaSwingDemoProject</b></td>
 <td>GUI desktop application with event-driven design</td>
 <td align="center"><img src="https://img.shields.io/badge/Java-f89820?style=flat-square"/> <img src="https://img.shields.io/badge/Swing-f89820?style=flat-square"/></td>
@@ -404,16 +424,34 @@ Digital systems, telecommunications,<br/>software architecture, and algorithms
 <td align="center"><a href="https://github.com/nikouliciousp/JavaSwingWDemoProject">🔗</a></td>
 </tr>
 <tr>
-<td align="center"><b>SwingStudentsTeachersApp</b></td>
-<td>School management desktop app — MVC pattern</td>
-<td align="center"><img src="https://img.shields.io/badge/Java-f89820?style=flat-square"/> <img src="https://img.shields.io/badge/MVC-f89820?style=flat-square"/></td>
-<td align="center"><a href="https://github.com/nikouliciousp/SwingStudentsTeachersApp">🔗</a></td>
-</tr>
-<tr>
 <td align="center"><b>CodingJavaLab</b></td>
 <td>Algorithms, data structures, and programming exercises</td>
 <td align="center"><img src="https://img.shields.io/badge/Java-f89820?style=flat-square"/> <img src="https://img.shields.io/badge/Algorithms-f89820?style=flat-square"/></td>
 <td align="center"><a href="https://github.com/nikouliciousp/CodingJavaLab">🔗</a></td>
+</tr>
+<tr>
+<td align="center"><b>TestApp</b></td>
+<td>Java testing and demonstration applications</td>
+<td align="center"><img src="https://img.shields.io/badge/Java-f89820?style=flat-square"/> <img src="https://img.shields.io/badge/Testing-f89820?style=flat-square"/></td>
+<td align="center"><a href="https://github.com/nikouliciousp/TestApp">🔗</a></td>
+</tr>
+<tr>
+<td align="center"><b>SimpleDynamicWebApp</b></td>
+<td>Dynamic web application with Java backend</td>
+<td align="center"><img src="https://img.shields.io/badge/Java-f89820?style=flat-square"/> <img src="https://img.shields.io/badge/DOM-f89820?style=flat-square"/></td>
+<td align="center"><a href="https://github.com/nikouliciousp/SimpleDynamicWebApp">🔗</a></td>
+</tr>
+<tr>
+<td align="center"><b>FinalProject</b></td>
+<td>University capstone integration project</td>
+<td align="center"><img src="https://img.shields.io/badge/Java-f89820?style=flat-square"/> <img src="https://img.shields.io/badge/Full--Stack-6DB33F?style=flat-square"/></td>
+<td align="center"><a href="https://github.com/nikouliciousp/FinalProject">🔗</a></td>
+</tr>
+<tr>
+<td align="center"><b>Selenium_Test</b></td>
+<td>Automated browser testing framework</td>
+<td align="center"><img src="https://img.shields.io/badge/Java-f89820?style=flat-square"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium"/></td>
+<td align="center"><a href="https://github.com/nikouliciousp/Selenium_Test">🔗</a></td>
 </tr>
 </table>
 </div>
@@ -436,15 +474,27 @@ Digital systems, telecommunications,<br/>software architecture, and algorithms
 </tr>
 <tr>
 <td align="center"><b>AG701-Crime-Analysis</b></td>
-<td>Data analysis & visualisation — California crime dataset</td>
-<td align="center"><img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></td>
+<td>Statistical analysis & visualisation — California crime dataset</td>
+<td align="center"><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/> <img src="https://img.shields.io/badge/Data%20Analysis-4A4A4A?style=flat-square"/></td>
 <td align="center"><a href="https://github.com/nikouliciousp/AG701-Crime-Analysis-California">🔗</a></td>
+</tr>
+<tr>
+<td align="center"><b>nexus_energy_analysis</b></td>
+<td>Energy consumption analysis & prediction models</td>
+<td align="center"><img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/ML-3572A5?style=flat-square"/></td>
+<td align="center"><a href="https://github.com/nikouliciousp/nexus_energy_analysis">🔗</a></td>
 </tr>
 <tr>
 <td align="center"><b>neurons_experiment</b></td>
 <td>Neural network research and experimentation</td>
 <td align="center"><img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></td>
 <td align="center"><a href="https://github.com/nikouliciousp/neurons_experiment">🔗</a></td>
+</tr>
+<tr>
+<td align="center"><b>relu_experiment</b></td>
+<td>Activation function research & deep learning experiments</td>
+<td align="center"><img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Neural%20Networks-FF6F00?style=flat-square"/></td>
+<td align="center"><a href="https://github.com/nikouliciousp/relu_experiment">🔗</a></td>
 </tr>
 <tr>
 <td align="center"><b>Data-Probability-Statistics</b></td>
@@ -507,16 +557,10 @@ Digital systems, telecommunications,<br/>software architecture, and algorithms
 <td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></td>
 <td align="center"><a href="https://github.com/nikouliciousp/WebApp-Flex-Grid">🔗</a></td>
 </tr>
-<tr>
-<td align="center"><b>SimpleDynamicWebApp</b></td>
-<td>Dynamic web application with DOM manipulation</td>
-<td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/DOM-F7DF1E?style=flat-square"/></td>
-<td align="center"><a href="https://github.com/nikouliciousp/SimpleDynamicWebApp">🔗</a></td>
-</tr>
 </table>
 </div>
 
-### 🔷 C# & .NET Development
+### 🔷 .NET & C# Development
 
 <div align="center">
 <table>
@@ -532,12 +576,6 @@ Digital systems, telecommunications,<br/>software architecture, and algorithms
 <td align="center"><img src="https://img.shields.io/badge/C%23-178600?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/></td>
 <td align="center"><a href="https://github.com/nikouliciousp/CFHCSharpIntro">🔗</a></td>
 </tr>
-<tr>
-<td align="center"><b>NetProgramming</b></td>
-<td>Advanced .NET programming projects</td>
-<td align="center"><img src="https://img.shields.io/badge/C%23-178600?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/.NET_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white"/></td>
-<td align="center"><a href="https://github.com/nikouliciousp/NetProgramming">🔗</a></td>
-</tr>
 </table>
 </div>
 
@@ -552,15 +590,9 @@ Digital systems, telecommunications,<br/>software architecture, and algorithms
 <th width="10%"></th>
 </tr>
 <tr>
-<td align="center"><b>Selenium_Test</b></td>
-<td>Automated browser testing framework</td>
-<td align="center"><img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/></td>
-<td align="center"><a href="https://github.com/nikouliciousp/Selenium_Test">🔗</a></td>
-</tr>
-<tr>
 <td align="center"><b>swot</b></td>
 <td>Academic email domain identifier utility</td>
-<td align="center"><img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white"/></td>
 <td align="center"><a href="https://github.com/nikouliciousp/swot">🔗</a></td>
 </tr>
 </table>
@@ -578,21 +610,9 @@ Digital systems, telecommunications,<br/>software architecture, and algorithms
 </tr>
 <tr>
 <td align="center"><b>NTUA-Projects</b></td>
-<td>Academic projects collection from NTUA</td>
-<td align="center"><img src="https://img.shields.io/badge/Multiple-888780?style=flat-square&logoColor=white"/></td>
+<td>Academic projects collection from NTUA with multi-language implementations</td>
+<td align="center"><img src="https://img.shields.io/badge/Java-f89820?style=flat-square"/> <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square"/></td>
 <td align="center"><a href="https://github.com/nikouliciousp/NTUA-Projects">🔗</a></td>
-</tr>
-<tr>
-<td align="center"><b>FinalProject</b></td>
-<td>University capstone integration project</td>
-<td align="center"><img src="https://img.shields.io/badge/Multiple-888780?style=flat-square&logoColor=white"/></td>
-<td align="center"><a href="https://github.com/nikouliciousp/FinalProject">🔗</a></td>
-</tr>
-<tr>
-<td align="center"><b>TestApp</b></td>
-<td>Various testing and demo applications</td>
-<td align="center"><img src="https://img.shields.io/badge/Multiple-888780?style=flat-square&logoColor=white"/></td>
-<td align="center"><a href="https://github.com/nikouliciousp/TestApp">🔗</a></td>
 </tr>
 </table>
 </div>
@@ -654,6 +674,6 @@ System design · Clean code principles<br/>
 
 *Military Officer &nbsp;|&nbsp; Software Engineer &nbsp;|&nbsp; AI Researcher &nbsp;|&nbsp; Technology Leader*
 
-**Last Updated: May 2026**
+**Last Updated: September 2026**
 
 </div>
