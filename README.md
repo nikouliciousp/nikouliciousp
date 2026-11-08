@@ -4,7 +4,7 @@
 
 **Military Officer — Technical Corps &nbsp;|&nbsp; Electrical & Computer Engineer &nbsp;|&nbsp; AI Researcher**
 
-Building robust, scalable systems at the intersection of software engineering,<br/>artificial intelligence, and technology leadership.
+Officer by day, builder by passion — software and AI are my craft and my hobby.
 
 <br/>
 
