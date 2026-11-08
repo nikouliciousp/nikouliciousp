@@ -4,8 +4,9 @@
 
 **Military Officer — Technical Corps &nbsp;|&nbsp; Electrical & Computer Engineer &nbsp;|&nbsp; AI Researcher**
 
-Building robust, scalable systems at the intersection of software engineering,
-artificial intelligence, and technology leadership.
+Building robust, scalable systems at the intersection of software engineering,<br/>artificial intelligence, and technology leadership.
+
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikouliciousp)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/periklis-nikoulis)
@@ -30,21 +31,80 @@ My work spans enterprise software development, full-stack web applications, data
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
-| | |
-|---|---|
-| 🎓 **MSc Artificial Intelligence** — University of Essex | *In progress* — machine learning, neural networks, NLP, data science |
-| 🎓 **MEng Electrical & Computer Engineering** — NTUA | *Completed* — digital systems, telecommunications, software architecture, algorithms |
-| 🎖️ **Information & Knowledge Management** — NATO | Certification |
-| 📊 **Project Management** — PMI / Workearly | Certification |
-| 💻 **Full Stack Web Development** — Coding Factory, AUEB | Certification |
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+![MSc AI](https://img.shields.io/badge/MSc_Artificial_Intelligence-University_of_Essex-4f8ef7?style=for-the-badge&logo=academia&logoColor=white)
+
+Machine learning, neural networks, NLP and data science applications<br/>*In progress*
+
+</td>
+<td align="center" width="50%">
+
+![MEng ECE](https://img.shields.io/badge/MEng_Electrical_%26_Computer_Engineering-NTUA-1D9E75?style=for-the-badge&logo=academia&logoColor=white)
+
+Digital systems, telecommunications, software architecture and algorithms<br/>*Completed*
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 Repository Overview
+## 🏆 Professional Certifications
 
-**31 public repositories** across 6 domains:
+<div align="center">
+
+![NATO IKM](https://img.shields.io/badge/Information_%26_Knowledge_Management-NATO-185FA5?style=for-the-badge)
+![PMI](https://img.shields.io/badge/Project_Management-PMI_%2F_Workearly-1D9E75?style=for-the-badge)
+![AUEB](https://img.shields.io/badge/Full_Stack_Web_Development-Coding_Factory_AUEB-BA7517?style=for-the-badge)
+
+</div>
+
+---
+
+## 📊 Repository Summary
+
+<div align="center">
+
+![Repos](https://img.shields.io/badge/Public_Repositories-31-378ADD?style=for-the-badge)
+![Domains](https://img.shields.io/badge/Technology_Domains-6-1D9E75?style=for-the-badge)
+![Languages](https://img.shields.io/badge/Primary_Languages-9-BA7517?style=for-the-badge)
+![Certifications](https://img.shields.io/badge/Certifications-3-D85A30?style=for-the-badge)
+
+</div>
+
+### Primary language per repository
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"pie1":"#f89820","pie2":"#3572A5","pie3":"#E34C26","pie4":"#276DC3","pie5":"#178600","pie6":"#3178c6","pie7":"#f1c40f","pie8":"#A97BFF","pie9":"#8b949e","pieStrokeColor":"#ffffff","pieStrokeWidth":"1px","pieOuterStrokeWidth":"1px","pieSectionTextColor":"#ffffff","pieLegendTextSize":"14px"}}}%%
+pie showData
+    "Java" : 12
+    "Python" : 7
+    "HTML" : 6
+    "R" : 1
+    "C#" : 1
+    "TypeScript" : 1
+    "JavaScript" : 1
+    "Kotlin" : 1
+    "Standard ML" : 1
+```
+
+### Repositories by domain
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"pie1":"#f89820","pie2":"#378ADD","pie3":"#1D9E75","pie4":"#BA7517","pie5":"#178600","pie6":"#D85A30","pieStrokeColor":"#ffffff","pieStrokeWidth":"1px","pieOuterStrokeWidth":"1px","pieSectionTextColor":"#ffffff","pieLegendTextSize":"14px"}}}%%
+pie showData
+    "Enterprise Dev" : 12
+    "AI & Data Science" : 9
+    "Web Full-Stack" : 6
+    "Testing & Tools" : 2
+    ".NET" : 1
+    "Academic" : 1
+```
 
 | Domain | Primary language | Repos | Focus |
 |:--|:--|:-:|:--|
@@ -59,6 +119,21 @@ My work spans enterprise software development, full-stack web applications, data
 
 ## 🛠️ Technical Skills
 
+*Self-assessed levels.*
+
+| Skill | Level | |
+|:--|:--|:--|
+| Java / Spring Boot | `████████` | Expert |
+| SQL · MySQL · PostgreSQL | `████████` | Expert |
+| HTML / CSS | `████████` | Expert |
+| Git / GitHub | `████████` | Expert |
+| Python · TensorFlow · PyTorch | `██████░░` | Advanced |
+| C# · TypeScript · JavaScript | `██████░░` | Advanced |
+| Angular · Django · Flask | `██████░░` | Advanced |
+| Docker · Maven | `██████░░` | Advanced |
+| R · C/C++ · Kotlin · Prolog · SML | `████░░░░` | Intermediate |
+| CI/CD | `████░░░░` | Intermediate |
+
 | | |
 |:--|:--|
 | **Languages** | Java · Python · C# · TypeScript · JavaScript · R · C/C++ · Prolog · SML · Kotlin |
@@ -68,23 +143,6 @@ My work spans enterprise software development, full-stack web applications, data
 | **DevOps & Tools** | Git/GitHub · Docker · Maven · CI/CD |
 | **AI & ML** | TensorFlow · PyTorch · Scikit-learn · Pandas · NumPy |
 | **Testing** | Selenium |
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,cs,cpp,c,js,ts,r,angular,spring,django,flask,docker,git,maven,tensorflow,pytorch&perline=9" width="540" height="120" alt="Tech stack" />
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nikouliciousp&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="400" height="195" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikouliciousp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" width="300" height="195" alt="Top Languages" />
-
-</div>
 
 ---
 
@@ -157,7 +215,7 @@ Note: a private repo link returns 404 for visitors, so list it without a link or
 
 ---
 
-## 📞 Contact
+## 📞 Contact & Connect
 
 <div align="center">
 
